@@ -325,8 +325,8 @@ if col1.button("📈 Kerro yrittäjätaustasta"):
     button_clicked = "Kerro lyhyesti Rafaelin yrittäjätaustasta ja mitä hän on siinä oppinut."
 if col2.button("🤖 Miten hän hyödyntää AI:ta?"):
     button_clicked = "Miten Rafael hyödyntää tekoälyä työssään ja opinnoissaan?"
-if col3.button("💼 Mikä on palkkatoive?"):
-    button_clicked = "Mikä on Rafaelin palkkatoive ja miten hän perustelee sen?"
+if col3.button("💼 Miten tämä agentti on tehty?"):
+    button_clicked = "Miten tämä agentti on rakennettu ja miten se toimii?"
 
 st.divider()
 
