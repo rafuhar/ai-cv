@@ -323,8 +323,8 @@ button_clicked = None
 
 if col1.button("📈 Kerro yrittäjätaustasta"):
     button_clicked = "Kerro lyhyesti Rafaelin yrittäjätaustasta ja mitä hän on siinä oppinut."
-if col2.button("🤖 Miten hän hyödyntää AI:ta?"):
-    button_clicked = "Miten Rafael hyödyntää tekoälyä työssään ja opinnoissaan?"
+if col2.button("🤖 Miksi palkata Rafael?"):
+    button_clicked = "Mitä lisäarvoa Rafael tuo yrityksellemme ja kannattaako hänet palkata??"
 if col3.button("💼 Miten tämä agentti on tehty?"):
     button_clicked = "Miten tämä agentti on rakennettu ja miten se toimii?"
 
