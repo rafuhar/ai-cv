@@ -5,379 +5,170 @@ Opinnot: Jyväskylän yliopiston kauppakorkeakoulu:
 Valmistun lähiaikoina kauppatieteiden maisteriksi. Pääaineeni on markkinointi. Sivuainekokonaisuuksia on yrittäjyys ja suoritan alumnina loppuun johtamisen aineopinnot valinnaisina opintoina ja mahdollisesti myös taloustieteen sivuaineen. 
 Valitsin ensimmäisenä vuonna markkinoinnin pääaineeksi parista syystä: Minua kiinnosti fakta, että Suomesta ei tule vastaavanlaisia menestysyrityksiä kuin Ruotsista ja eräs luennoitsija väitti tämän johtuvan siitä, että Suomessa ei markkinoida riittävän hyvin. Tämän lisäksi olen sitä mieltä, että yritysten keskeisin funktio on myynti, koska ilman myyntiä yritykset eivät pysy pystyssä. Keskeisin myyntiä tukeva funktio on markkinointi. Uskon, että markkinointia opiskelleena minulla on kattava ymmärrys siitä, että mitä kaikkea on otettava huomioon esimerkiksi silloin, kun perustetaan yritystä, luodaan markkinointikampanjaa tai laajennetaan uuteen markkinaan. Uskon minulla olevan ymmärrystä monista muistakin asioista. Ajattelen markkinoinnin olevan kattava koulutus markkinaymmärrykseen ja markkinatuntemukseen ja sellaisia henkilöitä on oltava joka yrityksessä. 
 Tekniset taidot: 
-
 Tekoäly: Kaikki perus generatiivisen tekoälyn kielimallit, mutta eniten olen käyttänyt Googlen Geminin thinking –mallia ja Copilotia. Lisäksi Google AI Studio –ohjelmiston käytön olen oppinut tämän agentin rakentamisen aikana. 
-
 Toiminnanohjaus: EasoftERP. Olen ottanyt yrittäjänä ohjelmiston käyttöön yritykselle, opetellut sen käytön ja opettanut perusteet muille Jyvärin sisällä. 
-
 Analytiikka: SPSS ja Excel 
-
 Toimistotyökalut: Officen ohjelmat 
-
 Markkinointi: Metan ja Googlen mainosympäristöt (perusteet itse opittu käytännön kautta yrittäjänä) 
-
- 
-
 Kieliosaaminen:  
-
 Suomi - Äidinkieli 
-
 Englanti C1  
-
 Saksa A2 (aktiivisesti opiskelen ja tavoitteena B2 syksyn 2026 aikana) 
-
 Ruotsi A2 (virkamiesruotsi käyty arvoisanoilla tyydyttävät taidot) 
-
-Italian ja Ranskan alkeet käyty yliopistossa.  
-
- 
-
-Opiskelen Saksaa aktiivisesti. Teen duolingoa päivittäin. 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
+Italian ja Ranskan alkeet käyty yliopistossa.
+Opiskelen Saksaa aktiivisesti. Teen duolingoa päivittäin.
 Miksi päätit perustaa juuri maalausliikkeen, etkä esimerkiksi digitoimistoa, vaikka opiskelit kauppatieteitä? 
-
 Perustin maalausliikkeen, koska olen lukiolaisena tehnyt kesätöinä omakotitalojen ja taloyhtiöiden huoltomaalausta. Olin siis nuorella iällä oppinut käytännön kautta maalaustyöhön liittyvät periaatteet. Tiesin, miten talo maalataan: ensimmäisenä tehdään huolellinen homepesu ja tämän jälkeen talo maalataan sopivalla ulkomaalilla. Lisäksi olin oppinut toimimaan erilaisten asiakkaiden kanssa.  
-
 Olin kiinnostunut yrittäjyydestä ja halusin oppia liiketoimintaa käytännön kautta. Tiesin tämän tukevan opintojen kautta tulevaa teoriaosaamista. Voisin käytännön kautta opetella liiketoimintaa. Maalausliike valikoitui yritykseksi, koska halusin tuotteistaa oman osaamisen. Osasin maalata taloja ja halusin opetella myymistä ja markkinointia ja kaikkea, mitä yrittämiseen liittyy. Eli maalausliikkeen valikoituminen liiketoimeksi on vain ajautuminen. 
 
-Lähtökohtainen tavoite oli vain työllistää itseni ja kaksi muuta. Ei sen isompaa tavoitetta. 
-
- 
-
+Lähtökohtainen tavoite oli vain työllistää itseni ja kaksi muuta. Ei sen isompaa tavoitetta.
 Mikä oli se hetki Jyväri Oy:n historiassa, jolloin olit vähällä luovuttaa, ja mikä sai sinut jatkamaan? 
-
-Rehellisesti en muista tällaista hetkeä. Aina kun on ollut rankkaa ja vaikeaa, niin olen tehnyt kahta kauheammin töitä ja ikään kuin “väkisin” etsinyt ratkaisun asiaan. Yleensä tällaiset tilanteet on ollut sellaisia, että ei ole töitä työntekijöille, vaikka olisi niin luvannut. Ratkaisuna on ollut, että mietin luovempia mainoksia ja että lähden itse omakotitalojen oville koputtamaan ja juttelemaan, että olisiko tarvetta maalaukselle tai tiilikattojen pinnoitukselle. Aina on töitä lopulta löytynyt. Se on hieno tunne, kun huomaa, että kaikki lopulta ratkesi. Olen ylpeä sinnikkyydestäni ja stressinsietokyvystäni.  
-
+Rehellisesti en muista tällaista hetkeä. Aina kun on ollut rankkaa ja vaikeaa, niin olen tehnyt kahta kauheammin töitä ja ikään kuin “väkisin” etsinyt ratkaisun asiaan. Yleensä tällaiset tilanteet on ollut sellaisia, että ei ole töitä työntekijöille, vaikka olisi niin luvannut. Ratkaisuna on ollut, että mietin luovempia mainoksia ja että lähden itse omakotitalojen oville koputtamaan ja juttelemaan, että olisiko tarvetta maalaukselle tai tiilikattojen pinnoitukselle. Aina on töitä lopulta löytynyt. Se on hieno tunne, kun huomaa, että kaikki lopulta ratkesi. Olen ylpeä sinnikkyydestäni ja stressinsietokyvystäni.
 Miten selität 21-vuotiaan itsesi uskottavuuden, kun menit koputtamaan ensimmäisen omakotitaloasujan oveen ilman referenssejä? 
-
-Muistan vieläkin ensimmäisen oven johon koputin. Olin ovella veljeni ja ystäväni kanssa, jotka lähtivät minun mukaan Jyvärin toimintaan. Olen itse ollut vastuussa kaikesta liiketoiminnasta ja toiminnan pyörimisestä, mutta he ovat olleet mukana myynnissä ja maalanneet. Minulla ei ole mitään muistikuvaa mitä olemme ovella sanoneet, mutta heti ensimmäisellä ovella pääsimme laskemaan tarjousta. Jotain teimme siis oikein.  
-
-Uskon että parasta on olla avoin. Uskon, että olemme kertoneet että mitä me teemme ja että etsimme asiakkaita, jotka olisivat kiinnostuneita kuulemaan hinnan talon maalaukselle. Olimme jokainen olleet 3-4 kesää maalaustöissä, joten pystyimme suoraselkäisesti kertomaan olevamme kokeneita maalareita. Olimmehan maalanneet kymmeniä kohteita. Lisäksi vanhoista kohteista löytyi ennen-jälkeen -kuvia, joita näytimme ja laitoimme myös meidän ensimmäisille nettisivuille. Muistan, että välttelimme sanomasta sellaisia asioita, jotka vähentäisivät meidän uskottavuutta. Valehteluun en ole itse ikinä langennut. Se herättää asiakkaan epäilykset jossain vaiheessa ja luottamus kärsii. Myyntityö on luottamuksen rakentamista. 
-
-Mikä on suurin yksittäinen taloudellinen riski, jonka olet yrittäjänä ottanut, ja miten hallitsit siihen liittyvän stressin? 
-
-Minun ei onnekseni ole juuri tarvinnut ottaa henkilökohtaista taloudellista riskiä. Toki se on joka kesä riski valita yrittäjyys tulonlähteeksi tilanteessa, jossa yhtään asiakasta ei ole tiedossa. Tulot perustuvat kuitenkin siihen, että saamme maalauksia myytyä. Alkuvuodesta 2025 päätin kasvattaa toimintaa seinämaalauksesta tiilikattojen pinnoitukseen. Siihen liittyen piti investoida yrityksen rahoja esimerkiksi kärryyn, painepesuriin ja maaliruiskuun. Samalla seinämaalausten liikevaihto kasvoi edellisen vuoden 93k liikevaihdosta lähes 120k liikevaihtoon, joten tähän liittyen tuli myös ostettua uutta kalustoa. Yrityksen varat kävivät hetken nollissa tai jopa miinuksella. Alkuvuodesta 2025 kun tein päätöksen tiilikatoista, en itse osannut tehdä niitä, minulla ei ollut tekijää siihen, eikä yhtään asiakasta. Lähdin siis taas nollatilanteesta rakentamaan. Aika oli järjettömän stressaavaa varsinkin kun sesonki lähestyi. Löysin verkostojen kautta maaliskuussa nuoren kaverin, joka oli kaksi kesää tehnyt tiilikattojen pinnoituksia pääkaupunkiseudulla. Tämä oli loistava löytö. Hän oli todella kova tekijä ja asiakkaat erikseen kehuivat hänen työtään minulle jatkuvasti. Stressaavaa aikaa oli, kun minulla ei ollut referenssejä, enkä tiennyt, että millä maaleilla edes pinnoituksia tehdään. Opettelin kaiken alusta. Coating source, joka on jyväskyläläinen nowocoatin maalien maahantuoja piti minulle ja muille yrittäjille esittelyn heidän tuotteista ja sieltä löysimme maalit. He kertoivat että miten pinnoitus tehdään. Lisäksi minulla on muutamia ystäviä, jotka ovat tehneet kesätöinä kattopinnoituksia, joten heidän avulla ymmärsin myös perjaatteet kattojen maalauksesta. Tällä tiedolla lähin jälleen asiakkaiden oville ensimmäisen kerran kahteen vuoteen myymään tällä kertaa tuotetta, josta minulla ei ollut hallussa kuin teoria. Ensimmäinen kauppa löytyi vanhoista asiakaskontakteista, jonka talon ulkoverhoilu oli jo maalattu. Tämän jälkeen jotenkin metamainosten ja ovelta ovelle -myynnillä löytyi lopulta riittävä määrä töitä, vaikka monta viikkoa kesästä oli tilanne, että kattomaalarilla oli vain kuluvalle viikolle töitä ja seuraava viikko oli kysymysmerkki. Aika oli minulle stressaavaa. Tilanne oli myös alkuvuodesta se, että kattomaalari lähti heinäkuussa suorittamaan asevelvollisuutta ja oli tiedossa, että kattomaalaria ei tämän jälkeen ole. Tein laskelmat siten, että pääsisimme kannattavuuden puolelle kattotoiminnassa sinä aikana ennen kun maalari lähtee armeijaan. Näin ei kuitenkaan ihan käynyt. Tein päätöksen lähteä itse katolle tekemään loput työt. Näin heittäydyin jälleen kohti tuntematonta ja opettelin työn, jota en ollut aikaisemmin tehnyt. 
-
-Miten "rehellisyyteen perustuva myyntimallisi" näkyy konkreettisesti tarjouksessa, jonka jätät asiakkaalle? 
-
-En osaa sanoa näkyykö se tarjouksessa. Lähinnä se näkyy siinä, kun rakennan luottamussuhdetta asiakkaaseen. Tarjouspohja meillä on sellainen, että laitan siihen selkeästi tarjouksen sisällön ja kaikki asiat, jotka pitää ottaa huomioon. Ehkä rehellisyys näkyy tarjouksessa siis jollain tavalla selkeyden kautta. Haluan viestiä lukijalle, että tämä saa tarjouksesta selkeän kuvan siitä, että mitä hän on ostamassa, mitä se sisältää, mitä se ei sisällä ja vaikkapa että mitä kuluttajasuojalausekkeita tarjous sisältää.  
-
-Jos liikevaihtosi kasvoi 56k -> 176k, mitkä olivat ne kolme kriittisintä pullonkaulaa, jotka jouduit ratkaisemaan tuon kasvun mahdollistamiseksi? 
-
-Kriittisimmät pullonkaulat ovat myynti ja toiminnan skaalaus. Yksi maalari voi maalata rajallisen määrän taloja kesän aikana. Jos toimintaa halutaan kasvattaa, on löydettävä uusia tekijöitä, joihin luotan. Maalauksessa on paljon asioita, joissa epäluotettava maalari voi aiheuttaa talolle, asiakassuhteelle ja yritykselle haittaa, joten luottamus on ehdottoman tärkeä. Lisäksi myynti todella kilpailulla toimialalla on kriittinen asia, joka täytyy ratkaista. Olen kokeillut erilaisia markkinointitapoja ja valitsen niistä tehokkaimmat kasvun mahdollistamiseksi. Lisäksi uskon, että kasvu on parhaimmillaan silloin, kun se on orgaanista, eli vanhat asiakkaat kertovat tuttavilleen ja sitä kautta saamme jatkuvasti kysyntää. Asiakassuhteeseen panostamme kaikissa asiakaspisteissä, jotta asiakas olisi tyytyväinen ja kertoisi tuttavilleen maalauksesta ja meistä. 
-
-Miten hoidit Jyväri Oy:n brändin rakentamisen "nollapisteestä"? Oliko se harkittua strategiaa vai orgaanista kokeilua? 
-
-Brändinrakennus on ollut osin harkittua strategiaa ja osin orgaanista kokeilua. Lähdimme siitä liikenteeseen toiminnassamme, että haluamme vain itselle töitä ja jatkuvasti olemme olleet tilanteessa, että jokainen uusi tarjous on mahdollisuus saada lisää töitä itselle. Olemme halunneet, että asiakkaat ovat tyytyväisiä ja ei kerro pitkin facebook-ryhmiä mitään huonoja asioita meistä vaan enemmänkin niin, että pyytämättä he jakavat postauksia meistä tms. Opintojen kautta olen saanut valtavasti oppia siitä, että mitä asioita brändin rakentamisessa on otettava huomioon, mutta emme ole koskaan mitään varsinaista strategiaa luoneet. Toiminta ei ole meille päivätyö vaan kesätyö, joten olemme suhtautuneet siihen sopivalla vakavuudella yritykseen. Olemme yhdessä kolmistaan miettineet värimaailmaa ja logoa ja monta asiaa brändiin liittyen, mutta jotenkin tuntuu, että aika intuitiolla olemme brändiä rakentaneet. Voi olla että en osaa tässä kysymyksessä nyt ottaa kaikkea huomioon. 
-
-Aliurakointi ja tiimin johtaminen: Miten varmistit laadun (0 reklamaatiota), kun et ollut itse fyysisesti jokaisella työmaalla sutimassa? 
-
-Tähän täytyy valitettavasti tehdä sellainen korjaus, että yksi reklamaatio tuli sittenkin viime kesänä. Muistin tämän vasta. Siinä oli tilanne sellainen, että teimme yhteen terassiin öljyämisen. Maalarit eivät hoksanneet, että öljy pitää huolella sekoittaa, enkä itsekään olisi tajunnut asiaa. Lopputulos oli laikukas. Virhe huomattiin, myönnettiin ja selvitimme maalinvalmistajan kanssa, että mitä vaihtoehtoja on. Totesimme, että asiakkaan ei tarvitse kyseisestä työstä maksaa toistaiseksi ja sovimme että seuraavana vuonna tulemme tekemään korjauksen terassiin ja hän maksaa työstä vasta sitten. Emme ole vielä siis tehneet korjausta. 
-
-Silti lukema on mielestäni hyvä. Olemme varmistaneet laadun sillä, että valitsemme vain luotettavia maalareita, joilta tiedän että mitä tulee saamaan. Lisäksi tekemällä pohjatyöt riittävän hyvin. Lisäksi haluan maksaa maalareille niin motivoivan summan, että he tekevät mielellään työn huolellisesti. 
-
-Mikä on yrittäjyyden tuoma "oppi", jota arvostat eniten nyt, kun haet palkkatöihin isompaan organisaatioon? 
-
-Pidän tärkeinä oppeina esimerkiksi sitä, että osaan hallita isoja kokonaisuuksia, joissa on monta liikkuvaa palaa. Pystyn toimimaan paineen alla ja siedän stressiä. Olen sinnikäs. Tiedän miten asiakasta puhutellaan. Olen kokenut myyjä. Olen myynyt maalauksia satojen tuhansien eurojen edestä. Osaan myydä kuluttajille ja taloyhtiöille, joissa on useampia päättäjiä. Tämä kokemus menee ikään kuin B2B-kokemuksesta, vaikka virallisesti ei sitä ole. 
-
-Miten kuvailisit Jyväri Oy:n yrityskulttuuria – millainen paikka se oli olla töissä noille 8 hengelle? 
-
-Jyvärin yrityskulttuuri on tuttavallinen. Olemme kaikki kavereita myös siviilissä, joten töissä on mukavaa olla. Tätä kysymystä pitäisi ehkä kysyä joltain maalarilta. 
-
- 
-
+Muistan vieläkin ensimmäisen oven johon koputin. Olin ovella veljeni ja ystäväni kanssa, jotka lähtivät minun mukaan Jyvärin toimintaan. Olen itse ollut vastuussa kaikesta liiketoiminnasta ja toiminnan pyörimisestä, mutta he ovat olleet mukana myynnissä ja maalanneet. Minulla ei ole mitään muistikuvaa mitä olemme ovella sanoneet, mutta heti ensimmäisellä ovella pääsimme laskemaan tarjousta. Jotain teimme siis oikein.
+Uskon että parasta on olla avoin. Uskon, että olemme kertoneet että mitä me teemme ja että etsimme asiakkaita, jotka olisivat kiinnostuneita kuulemaan hinnan talon maalaukselle. Olimme jokainen olleet 3-4 kesää maalaustöissä, joten pystyimme suoraselkäisesti kertomaan olevamme kokeneita maalareita. Olimmehan maalanneet kymmeniä kohteita. Lisäksi vanhoista kohteista löytyi ennen-jälkeen -kuvia, joita näytimme ja laitoimme myös meidän ensimmäisille nettisivuille. Muistan, että välttelimme sanomasta sellaisia asioita, jotka vähentäisivät meidän uskottavuutta. Valehteluun en ole itse ikinä langennut. Se herättää asiakkaan epäilykset jossain vaiheessa ja luottamus kärsii. Myyntityö on luottamuksen rakentamista.
+Mikä on suurin yksittäinen taloudellinen riski, jonka olet yrittäjänä ottanut, ja miten hallitsit siihen liittyvän stressin?
+Minun ei onnekseni ole juuri tarvinnut ottaa henkilökohtaista taloudellista riskiä. Toki se on joka kesä riski valita yrittäjyys tulonlähteeksi tilanteessa, jossa yhtään asiakasta ei ole tiedossa. Tulot perustuvat kuitenkin siihen, että saamme maalauksia myytyä. Alkuvuodesta 2025 päätin kasvattaa toimintaa seinämaalauksesta tiilikattojen pinnoitukseen. Siihen liittyen piti investoida yrityksen rahoja esimerkiksi kärryyn, painepesuriin ja maaliruiskuun. Samalla seinämaalausten liikevaihto kasvoi edellisen vuoden 93k liikevaihdosta lähes 120k liikevaihtoon, joten tähän liittyen tuli myös ostettua uutta kalustoa. Yrityksen varat kävivät hetken nollissa tai jopa miinuksella. Alkuvuodesta 2025 kun tein päätöksen tiilikatoista, en itse osannut tehdä niitä, minulla ei ollut tekijää siihen, eikä yhtään asiakasta. Lähdin siis taas nollatilanteesta rakentamaan. Aika oli järjettömän stressaavaa varsinkin kun sesonki lähestyi. Löysin verkostojen kautta maaliskuussa nuoren kaverin, joka oli kaksi kesää tehnyt tiilikattojen pinnoituksia pääkaupunkiseudulla. Tämä oli loistava löytö. Hän oli todella kova tekijä ja asiakkaat erikseen kehuivat hänen työtään minulle jatkuvasti. Stressaavaa aikaa oli, kun minulla ei ollut referenssejä, enkä tiennyt, että millä maaleilla edes pinnoituksia tehdään. Opettelin kaiken alusta. Coating source, joka on jyväskyläläinen nowocoatin maalien maahantuoja piti minulle ja muille yrittäjille esittelyn heidän tuotteista ja sieltä löysimme maalit. He kertoivat että miten pinnoitus tehdään. Lisäksi minulla on muutamia ystäviä, jotka ovat tehneet kesätöinä kattopinnoituksia, joten heidän avulla ymmärsin myös perjaatteet kattojen maalauksesta. Tällä tiedolla lähin jälleen asiakkaiden oville ensimmäisen kerran kahteen vuoteen myymään tällä kertaa tuotetta, josta minulla ei ollut hallussa kuin teoria. Ensimmäinen kauppa löytyi vanhoista asiakaskontakteista, jonka talon ulkoverhoilu oli jo maalattu. Tämän jälkeen jotenkin metamainosten ja ovelta ovelle -myynnillä löytyi lopulta riittävä määrä töitä, vaikka monta viikkoa kesästä oli tilanne, että kattomaalarilla oli vain kuluvalle viikolle töitä ja seuraava viikko oli kysymysmerkki. Aika oli minulle stressaavaa. Tilanne oli myös alkuvuodesta se, että kattomaalari lähti heinäkuussa suorittamaan asevelvollisuutta ja oli tiedossa, että kattomaalaria ei tämän jälkeen ole. Tein laskelmat siten, että pääsisimme kannattavuuden puolelle kattotoiminnassa sinä aikana ennen kun maalari lähtee armeijaan. Näin ei kuitenkaan ihan käynyt. Tein päätöksen lähteä itse katolle tekemään loput työt. Näin heittäydyin jälleen kohti tuntematonta ja opettelin työn, jota en ollut aikaisemmin tehnyt.
+Miten "rehellisyyteen perustuva myyntimallisi" näkyy konkreettisesti tarjouksessa, jonka jätät asiakkaalle?
+En osaa sanoa näkyykö se tarjouksessa. Lähinnä se näkyy siinä, kun rakennan luottamussuhdetta asiakkaaseen. Tarjouspohja meillä on sellainen, että laitan siihen selkeästi tarjouksen sisällön ja kaikki asiat, jotka pitää ottaa huomioon. Ehkä rehellisyys näkyy tarjouksessa siis jollain tavalla selkeyden kautta. Haluan viestiä lukijalle, että tämä saa tarjouksesta selkeän kuvan siitä, että mitä hän on ostamassa, mitä se sisältää, mitä se ei sisällä ja vaikkapa että mitä kuluttajasuojalausekkeita tarjous sisältää.
+Jos liikevaihtosi kasvoi 56k -> 176k, mitkä olivat ne kolme kriittisintä pullonkaulaa, jotka jouduit ratkaisemaan tuon kasvun mahdollistamiseksi?
+Kriittisimmät pullonkaulat ovat myynti ja toiminnan skaalaus. Yksi maalari voi maalata rajallisen määrän taloja kesän aikana. Jos toimintaa halutaan kasvattaa, on löydettävä uusia tekijöitä, joihin luotan. Maalauksessa on paljon asioita, joissa epäluotettava maalari voi aiheuttaa talolle, asiakassuhteelle ja yritykselle haittaa, joten luottamus on ehdottoman tärkeä. Lisäksi myynti todella kilpailulla toimialalla on kriittinen asia, joka täytyy ratkaista. Olen kokeillut erilaisia markkinointitapoja ja valitsen niistä tehokkaimmat kasvun mahdollistamiseksi. Lisäksi uskon, että kasvu on parhaimmillaan silloin, kun se on orgaanista, eli vanhat asiakkaat kertovat tuttavilleen ja sitä kautta saamme jatkuvasti kysyntää. Asiakassuhteeseen panostamme kaikissa asiakaspisteissä, jotta asiakas olisi tyytyväinen ja kertoisi tuttavilleen maalauksesta ja meistä.
+Miten hoidit Jyväri Oy:n brändin rakentamisen "nollapisteestä"? Oliko se harkittua strategiaa vai orgaanista kokeilua?
+Brändinrakennus on ollut osin harkittua strategiaa ja osin orgaanista kokeilua. Lähdimme siitä liikenteeseen toiminnassamme, että haluamme vain itselle töitä ja jatkuvasti olemme olleet tilanteessa, että jokainen uusi tarjous on mahdollisuus saada lisää töitä itselle. Olemme halunneet, että asiakkaat ovat tyytyväisiä ja ei kerro pitkin facebook-ryhmiä mitään huonoja asioita meistä vaan enemmänkin niin, että pyytämättä he jakavat postauksia meistä tms. Opintojen kautta olen saanut valtavasti oppia siitä, että mitä asioita brändin rakentamisessa on otettava huomioon, mutta emme ole koskaan mitään varsinaista strategiaa luoneet. Toiminta ei ole meille päivätyö vaan kesätyö, joten olemme suhtautuneet siihen sopivalla vakavuudella yritykseen. Olemme yhdessä kolmistaan miettineet värimaailmaa ja logoa ja monta asiaa brändiin liittyen, mutta jotenkin tuntuu, että aika intuitiolla olemme brändiä rakentaneet. Voi olla että en osaa tässä kysymyksessä nyt ottaa kaikkea huomioon.
+Aliurakointi ja tiimin johtaminen: Miten varmistit laadun (0 reklamaatiota), kun et ollut itse fyysisesti jokaisella työmaalla sutimassa?
+Tähän täytyy valitettavasti tehdä sellainen korjaus, että yksi reklamaatio tuli sittenkin viime kesänä. Muistin tämän vasta. Siinä oli tilanne sellainen, että teimme yhteen terassiin öljyämisen. Maalarit eivät hoksanneet, että öljy pitää huolella sekoittaa, enkä itsekään olisi tajunnut asiaa. Lopputulos oli laikukas. Virhe huomattiin, myönnettiin ja selvitimme maalinvalmistajan kanssa, että mitä vaihtoehtoja on. Totesimme, että asiakkaan ei tarvitse kyseisestä työstä maksaa toistaiseksi ja sovimme että seuraavana vuonna tulemme tekemään korjauksen terassiin ja hän maksaa työstä vasta sitten. Emme ole vielä siis tehneet korjausta.
+Silti lukema on mielestäni hyvä. Olemme varmistaneet laadun sillä, että valitsemme vain luotettavia maalareita, joilta tiedän että mitä tulee saamaan. Lisäksi tekemällä pohjatyöt riittävän hyvin. Lisäksi haluan maksaa maalareille niin motivoivan summan, että he tekevät mielellään työn huolellisesti.
+Mikä on yrittäjyyden tuoma "oppi", jota arvostat eniten nyt, kun haet palkkatöihin isompaan organisaatioon?
+Pidän tärkeinä oppeina esimerkiksi sitä, että osaan hallita isoja kokonaisuuksia, joissa on monta liikkuvaa palaa. Pystyn toimimaan paineen alla ja siedän stressiä. Olen sinnikäs. Tiedän miten asiakasta puhutellaan. Olen kokenut myyjä. Olen myynyt maalauksia satojen tuhansien eurojen edestä. Osaan myydä kuluttajille ja taloyhtiöille, joissa on useampia päättäjiä. Tämä kokemus menee ikään kuin B2B-kokemuksesta, vaikka virallisesti ei sitä ole.
+Miten kuvailisit Jyväri Oy:n yrityskulttuuria – millainen paikka se oli olla töissä noille 8 hengelle?
+Jyvärin yrityskulttuuri on tuttavallinen. Olemme kaikki kavereita myös siviilissä, joten töissä on mukavaa olla. Tätä kysymystä pitäisi ehkä kysyä joltain maalarilta.
 Sanoit, että et pidä Jyväri Oy:n dataa täysin luotettavana pienen otoskoon vuoksi. Jos saisit hallintaasi suuren organisaation datamassan, mikä olisi ensimmäinen asia, jota lähtisit sieltä etsimään? 
-
-Riippuu täysin siitä, että mikä on minun tehtäväni ja että mitä datalla voisi saada selville. Tähän ei ole lyhyttä vastausta. Jos kysyt tarkentavan kysymyksen skenaariosta, niin voin pohtia vastausta. 
-
-Miten selität maallikolle (esim. perinteiselle toimitusjohtajalle), miksi tilastollinen merkitsevyys on tärkeämpää kuin pelkkä "mutu" tai hieno graafi? 
-
-Nuohan nyt ei ole varsinaisesti vastakohdat. Mutta selittäisin tämän perinteiselle toimitusjohtajalle jotenkin sillä tavalla, että kun X väite on tilastollisesti merkitsevä, me voimme pitää väitettä uskottavana. Mutu tai hieno graafi saattaa pitää paikkansa, mutta jos se ei perustu mihinkään “oikeaan” tutkimukseen tai selvitykseen, meidän on suhtauduttava asiaan varauksella. 
-
-Gradusi käsittelee GenAI:ta innovaatioprosessissa. Mikä on haastatteluissasi noussut esiin suurimpana pelkona, jota yrityksissä tunnetaan tekoälyä kohtaan? 
-
-Mahdollisuuksia nähdään enemmän kuin pelkoja, mutta yksi pelko, mikä on noussut toistuvasti esiin on tietoturva ja tekoälysovellusten luotettavuus.  
-
-Käytit Metan mainoksia ja Google-mainontaa. Jos sinulla olisi 10 000 euron markkinointibudjetti seuraavalle kuukaudelle, miten jakaisit sen ja millä perusteella? 
-
-Meillä ei ole ollut noin suuria mainosbudjetteja kuukauteen. Jos olisi noin paljon rahaa laittaa markkinointiin, niin harkitsisin jotain muitakin markkinointitoimenpiteitä, mutta jos olisi vaikka 200 € käytettävissä seuraavalle kuukaudelle, jakaisin sen todennäköisesti 75 % metaan ja 25 % googleen, koska Metan kautta tulee liidejä, jotka ei ole kilpailutilanneliidejä. Maalausalalla Googlen kautta tulevat liidit ovat sellaisia, että asiakkaat kilpailuttavat useamman toimijan kesken maalauksen. Metan kautta tulevat ovat yleensä sellaisia, että käyttäjä ei ole miettinyt maalausta ja yhtäkkiä hoksaa tarpeen ja laittaa yhteydenottopyynnön. Tällöin meillä on parempi asema kilpailutilanteessa. Tämä jako ei ole universaali ja toisella toimialalla tai toisessa markkinassa perustelut eivät olisi valideja. 
-
-SPSS ja kvantitatiiviset menetelmät olivat sinulla 5/5. Minkälaisen tutkimuskysymyksen parissa viihdyit opintojesi aikana parhaiten? 
-
-Olen ollut opintojen aikana enemmän kiinnostunut kvalitatiivisista tutkimuskysymyksistä. Kvantitatiiviset menetelmät eivät ole olleet opinnoissa mitään erityisen kiinnostavia.  
-
-Monikielisyys: Olet opiskellut saksaa, ranskaa ja italiaa. Miten tämä kielitaito ja kulttuurinen ymmärrys auttavat sinua esimerkiksi kansainvälisessä markkinointitiimissä? 
-
-Pidän kulttuurista ymmärrystä todella tärkeänä. Minulla on tavoite opiskella saksaa niin paljon, että voisin kieltä puhua työelämässä. Tähän minulla on suunnitelma jo olemassa. Kulttuurinen ymmärrys erilaisiin Euroopan maihin on tärkeitä, koska vain ymmärtämällä kulttuuria, voidaan ymmärtää tiettyjä toimintatapoja ja voidaan siten kohdentaa markkinointitoimenpiteitä oikein ja oikealla tavalla näille alueille. Tai osaan toimia näiden maiden kansalaisten kanssa markkinointitiimissä. Lisäksi peruskurssin käyneenä italiaan ja ranskaan minulla on alkeellinen pohja lähteä rakentamaan kielen ja kulttuurin ymmärrystä syvemmin tarvittaessa. 
-
-Strateginen johtaminen (4/5): Jos Jyväri Oy olisi jatkanut kasvuaan, mikä olisi ollut seuraava suuri strateginen siirtosi (esim. uusi toimiala, yrityskauppa, vai jotain muuta)? 
-
-Olisin todennäköisesti valinnut yrityskaupan. Maalausala on sesonkiluonteinen ala ja en halua työllistyä ympärivuotisesti alalle, joka on todella kilpailtu ja jossa pitäisi saada sellaisella hinnalla tai voluumilla myytyä maalauksia, että saisin ympärivuotisesti elätettyä itseni. Tämä vaatisi niin paljon työtä, joka minua ei kiinnosta, että en halua panostaa alaan. Minun core-osaaminen on nykyään muualla kuin maalausbisneksessä. 
-
-Miten yhdistät gradusi teorian (Kahnin innovaatiomalli) siihen käytännön tekemiseen, jota olet neljä vuotta yrittäjänä tehnyt? 
-
-Gradun teoriarunko on valikoitunut sillä perusteella, että olimme graduparini kanssa kiinnostuneita tekoälyn käytöstä markkinointiasiantuntijana. Malli valikoitui, koska se tarjoaa selkeän rungon tutkimukselle, mutta silti havainnot voivat olla monipuolisia. Innovaatio ei sinänsä ole ollut minulle asia, josta olisin valtavan kiinnostunut. Uskon, että pystyn tulevaisuuden työpaikassa löytämään paljon paremmin mahdollisuuksia hyödyntää gradun teoriaa työelämässä. Maalausliiketoimi on todella käytännönläheistä kun varsinainen maalaaminen on käsillä tekemistä, jota ei voi korvata millään työkalulla, ja toiminnassa ei ole suuria tietoteknisiä vaiheita, joita voisi yrittää innovoimalla kehittää. En tiedä, en oikein osaa vastata tähän kysymykseen kovin laadukkaasti. 
-
-Olet yrittäjä ja pian KTM. Jos sinun pitäisi palkata itsellesi seuraaja Jyväri Oy:n toimitusjohtajaksi, mitä sellaista kysyisit häneltä, mitä kukaan muu ei tajua kysyä? 
-
-Kysyisin häneltä, että oletko valmis olemaan naimisissa työn kanssa siten, että pitää olla aina valmis reagoimaan nopeasti yllättäviin tilanteisiin käytännössä mihin kellonaikaan vain. 
-
-Tekoäly ja eettisyys: Gradussasi käsittelet EU AI Actia. Miten varmistat, että tekoälyä käytetään yrityksessä tavalla, joka ei vaaranna asiakkaiden luottamusta? 
-
-Pitää huolehtia, että tekoälysovellus ei hyödynnä dataa eikä tietoa vuodeta minnekään. Lisäksi täytyy olla todella harkitsevainen, että millaista yritysdataa ja asiakasdataa kielimallille syöttää. Aina täytyy säilyttää harkintakyky ihmisellä, että voiko tekoälyn avulla käyttää tiettyä dataa. Esimerkiksi osoitetta, henkilötunnusta ja puhelinnumeroa en syöttäisi tekoälylle tällä hetkellä missään olosuhteissa. Yrityksellä täytyy olla selkeät pelisäännöt siitä, että miten tekoälyä käytetään ja ohjeet, että millaista dataa voidaan käyttää. Lisäksi täytyy kouluttaa, että miten tieto anonymisoidaan tarvittaessa siten, että tekoälyllä voidaan saada aineistosta lisähyötyä. Kysyttiinköhän tässä kysymyksessä edes tätä? 
-
- 
-
- 
-
-Erä 3: Strateginen analyysi ja arvontuotto (21–30/200) 
-
-Skaalausstrategia: Jos saisit tehtäväksesi skaalata Jyväri Oy:n kymmenkertaiseksi, mitkä olisivat ne strategiset valinnat, joilla varmistaisit laadun (0 reklamaatiota) pysymisen, kun henkilökohtainen kontrollisi vähenee? 
-
-Minulla ei ole pienintäkään aikomusta skaalata Jyvärin liiketoimintaa 10-kertaiseksi. En tunnista markkinassa tähän mahdollisuutta, enkä halua käyttää tämän asian miettimiseen energiaa. 
-
-Markkinapositionti: Maalausala on "commodity"-bisnestä (palvelut muistuttavat toisiaan). Millä strategisella "keihäänkärjellä" erotit Jyvärin muista niin, ettei hinta ollut ainoa kilpailutekijä? 
-
-Jyvärin tarinalla ja ihmisillä. Olen halunnut terävöittää sitä, että asiakas tuntee minut ja meidät ja että me tunnemme asiakkaan myös henkilökohtaisella tasolla. Tämä luo asiakassuhteen, jossa asiakas luottaa meihin ja on valmis valitsemaan meidät, vaikka emme olisi halvin toimija aina. Lisäksi olemme aina sanoneet, että myös yrittäjät maalaavat kohteita, eli he voivat luottaa siihen, että maalarit eivät ole vain joitain randomeita, vaan että myös yrittäjät ovat tuotannossa mukana ja toiminta on sitä kautta suoraselkäistä ja avointa kaikilla tasoilla. 
-
-Resurssien allokointi: KTM-opinnoissasi olet oppinut pääoman ja resurssien hallinnasta. Miten priorisoit investoinnit (esim. uusi kalusto vs. markkinointibudjetin kasvattaminen), kun yrityksen kassa oli rajallinen? 
-
-Tarpeen ja tavoitteiden mukaan.  
-
-Innovaation johtaminen: Gradusi käsittelee GenAI:ta. Jos olisit voinut käyttää nykyistä AI-osaamistasi neljä vuotta sitten, mikä olisi ollut se strateginen vaihe (Discover, Develop vai Deliver), johon se olisi tuonut suurimman kilpailuedun? 
-
-Ei vastaa maalausalaa. Kyseessä rakennusala, jossa ei johdeta tai toimita tiedolla vaan käsillä. 
-
-B2B-päätöksenteko: Myynti taloyhtiöille on monimutkaista sidosryhmäpeliä. Miten rakensit strategian vakuuttaaksesi hallitukset, joissa on usein erilaisia intressejä ja riskitasoja? 
-
-Tavoitteena on aina ollut saada mahdollisimman monta taloyhtiön edustajaa mukaan katselmukseen. Tärkeintä on voittaa heidän luottamus, jotta he yrittävät perustella muille hallituksen edustajille siitä, että miksi meidän tarjous olisi hyvä valita. 
-
-Datan hyödyntäminen: Mainitsit, ettet luota pieneen datamassaan. Miten tämä skeptinen ja analyyttinen asenne auttaa sinua suuremmassa yrityksessä välttämään kalliit virheinvestoinnit, joita muut saattaisivat tehdä pelkän "hype-datan" perusteella? 
-
-Jos tunnistan, että dataan ei voi täysin luottaa, sen perusteella ei kannata tehdä päätöksiä. Pitää ensin varmistua siitä, että väite pitää paikkansa ja tämän jälkeen voidaan tehdä investointeja.  
-
-Eettinen kilpailuetu: Puhut eettisestä selkärangasta. Miten olet kääntänyt vastuullisuuden ja rehellisyyden mitattavaksi liiketoimintahyödyksi (esim. asiakkuuden elinkaariarvo tai suositteluprosentti)? 
-
-Asiakkuuden elinkaariarvo ei ole maalausalalla kovin kuvaava tieto, koska lähtökohtaisesti asiakkaat tekevät 1-2 ostosta ja tarvitsemme vain uusia asiakkaita jatkuvasti. Olemme kehoittaneet asiakkaita jättämään Googlessa arvostelut, koska sen avulla saamme lisää näkyvyyttä ja referenssejä 
-
-Strateginen riskienhallinta: Mikä oli suurin "strateginen riski" (ei vain taloudellinen), jonka otit Jyvärin kanssa, ja miten varmistit, ettei se vaaranna yrityksen olemassaoloa? 
-
-Kerroin tästä kun laajensimme toimintaa tiilikattojen pinnoituksiin. Varmistin sen ettei yrityksen olemassaoloa vaaranneta tekemällä tarkat laskelmat siitä kaikesta, että onhan meillä tähän mahdollisuuksia. Tärkeintä oli, että kassa ei menisi pakkaselle ja että meillä olisi aina rahaa maksaa kaikki juoksevat laskut. Tarkat laskelmat siis olivat tärkeitä, koska silloin on itsellä tieto, että missä mennään eikä tarvitse jännittää että tuleeko yritykselle vaikeuksia maksamisen kanssa. 
-
-Arvoketjun ymmärrys: Maalausyrittäjänä hallitsit koko ketjun markkinoinnista tuotantoon. Miten tämä kokonaisvaltainen ymmärrys auttaa sinua toimimaan suuren organisaation osana, jossa usein nähdään vain oma siilo? 
-
-Ymmärrän laajemmin, että mikä rooli omalla siilolla ja toisen siilolla on. Ymmärrän oman siilon ja oman työn merkityksen laaja-alaisesti. 
-
-Tulevaisuuden asiantuntijuus: Jos sinun pitäisi luoda "GenAI-strategia" keskisuurelle yritykselle, miten hyödyntäisit yrittäjäkokemustasi varmistaaksesi, ettei tekoälystä tule "asbestia", vaan kestävä osa innovaatioprosessia? 
-
-En hyödyntäisi yrittäjäkokemusta ollenkaan vaan tietotaitoa, joka minulla on graduprosessin kanssa muodostunut. 
-
- 
-
- 
-
- 
-
-Jos unohdetaan maalaaminen, niin minkä tyyppisten ongelmien ratkaiseminen saa sinut "flow-tilaan"? Onko se datan perkaamista, strategian hiomista vai kenties ihmisten vakuuttamista uudesta suunnasta? 
-
-Pääsen flow-tilaan kun pääsen tekemään jotain merkittävää tai merkitsevää. Esimerkiksi tämän agentin luominen tuntuu tärkeältä ja pääsen helposti flow-tilaan tämän kanssa. Tykkään opetella uutta tai kehittää tapoja päästä tiettyyn strategiaan. Rakastan asettaa tavoitteita itselleni ja muille ja se on parasta, kun näen edistymisen kohti tavoitteita. 
-
-Mainitsit aiemmin Duolingo-striikin ja kitaraharrastuksen. Mikä merkitys rutiineilla ja pitkäjänteisellä harjoittelulla on sinun ammatillisessa tekemisessäsi? 
-
-Pitkäjänteisyys on etu työelämässä. Jaksan graindata ja tehdä tylsääkin työtä pitkään vain tietäen, että tästä on ehkä minulle joskus hyötyä. Aina ei tunnu siltä, että kiinnostaa harjoitella kitaraa, mutta tiedän, että harjoittelusta on joskus iloa minulle ja muille. Duolingo-striikin ylläpitäminen tuntuu jatkuvasti rankalta, mutta sen avulla pääsen kohti saksan kielen osaamisen tavoitteitani, joten se tuntuu tärkeältä joka päivä tehdä muutama tehtävä saksan kielellä. 
-
-KTM-opinnoissasi pärjäsit erinomaisesti kvantitatiivisissa menetelmissä (5/5), vaikka sanoit, etteivät ne olleet lempiaiheitasi. Mitä tämä kertoo tavastasi suhtautua vaikeisiin tai "tylsiin" tehtäviin, jotka on vain hoidettava? 
-
+Riippuu täysin siitä, että mikä on minun tehtäväni ja että mitä datalla voisi saada selville. Tähän ei ole lyhyttä vastausta. Jos kysyt tarkentavan kysymyksen skenaariosta, niin voin pohtia vastausta.
+Miten selität maallikolle (esim. perinteiselle toimitusjohtajalle), miksi tilastollinen merkitsevyys on tärkeämpää kuin pelkkä "mutu" tai hieno graafi?
+Nuohan nyt ei ole varsinaisesti vastakohdat. Mutta selittäisin tämän perinteiselle toimitusjohtajalle jotenkin sillä tavalla, että kun X väite on tilastollisesti merkitsevä, me voimme pitää väitettä uskottavana. Mutu tai hieno graafi saattaa pitää paikkansa, mutta jos se ei perustu mihinkään “oikeaan” tutkimukseen tai selvitykseen, meidän on suhtauduttava asiaan varauksella.
+Gradusi käsittelee GenAI:ta innovaatioprosessissa. Mikä on haastatteluissasi noussut esiin suurimpana pelkona, jota yrityksissä tunnetaan tekoälyä kohtaan?
+Mahdollisuuksia nähdään enemmän kuin pelkoja, mutta yksi pelko, mikä on noussut toistuvasti esiin on tietoturva ja tekoälysovellusten luotettavuus.
+Käytit Metan mainoksia ja Google-mainontaa. Jos sinulla olisi 10 000 euron markkinointibudjetti seuraavalle kuukaudelle, miten jakaisit sen ja millä perusteella?
+Meillä ei ole ollut noin suuria mainosbudjetteja kuukauteen. Jos olisi noin paljon rahaa laittaa markkinointiin, niin harkitsisin jotain muitakin markkinointitoimenpiteitä, mutta jos olisi vaikka 200 € käytettävissä seuraavalle kuukaudelle, jakaisin sen todennäköisesti 75 % metaan ja 25 % googleen, koska Metan kautta tulee liidejä, jotka ei ole kilpailutilanneliidejä. Maalausalalla Googlen kautta tulevat liidit ovat sellaisia, että asiakkaat kilpailuttavat useamman toimijan kesken maalauksen. Metan kautta tulevat ovat yleensä sellaisia, että käyttäjä ei ole miettinyt maalausta ja yhtäkkiä hoksaa tarpeen ja laittaa yhteydenottopyynnön. Tällöin meillä on parempi asema kilpailutilanteessa. Tämä jako ei ole universaali ja toisella toimialalla tai toisessa markkinassa perustelut eivät olisi valideja.
+SPSS ja kvantitatiiviset menetelmät olivat sinulla 5/5. Minkälaisen tutkimuskysymyksen parissa viihdyit opintojesi aikana parhaiten?
+Olen ollut opintojen aikana enemmän kiinnostunut kvalitatiivisista tutkimuskysymyksistä. Kvantitatiiviset menetelmät eivät ole olleet opinnoissa mitään erityisen kiinnostavia.
+Monikielisyys: Olet opiskellut saksaa, ranskaa ja italiaa. Miten tämä kielitaito ja kulttuurinen ymmärrys auttavat sinua esimerkiksi kansainvälisessä markkinointitiimissä?
+Pidän kulttuurista ymmärrystä todella tärkeänä. Minulla on tavoite opiskella saksaa niin paljon, että voisin kieltä puhua työelämässä. Tähän minulla on suunnitelma jo olemassa. Kulttuurinen ymmärrys erilaisiin Euroopan maihin on tärkeitä, koska vain ymmärtämällä kulttuuria, voidaan ymmärtää tiettyjä toimintatapoja ja voidaan siten kohdentaa markkinointitoimenpiteitä oikein ja oikealla tavalla näille alueille. Tai osaan toimia näiden maiden kansalaisten kanssa markkinointitiimissä. Lisäksi peruskurssin käyneenä italiaan ja ranskaan minulla on alkeellinen pohja lähteä rakentamaan kielen ja kulttuurin ymmärrystä syvemmin tarvittaessa.
+Strateginen johtaminen (4/5): Jos Jyväri Oy olisi jatkanut kasvuaan, mikä olisi ollut seuraava suuri strateginen siirtosi (esim. uusi toimiala, yrityskauppa, vai jotain muuta)?
+Olisin todennäköisesti valinnut yrityskaupan. Maalausala on sesonkiluonteinen ala ja en halua työllistyä ympärivuotisesti alalle, joka on todella kilpailtu ja jossa pitäisi saada sellaisella hinnalla tai voluumilla myytyä maalauksia, että saisin ympärivuotisesti elätettyä itseni. Tämä vaatisi niin paljon työtä, joka minua ei kiinnosta, että en halua panostaa alaan. Minun core-osaaminen on nykyään muualla kuin maalausbisneksessä.
+Miten yhdistät gradusi teorian (Kahnin innovaatiomalli) siihen käytännön tekemiseen, jota olet neljä vuotta yrittäjänä tehnyt?
+Gradun teoriarunko on valikoitunut sillä perusteella, että olimme graduparini kanssa kiinnostuneita tekoälyn käytöstä markkinointiasiantuntijana. Malli valikoitui, koska se tarjoaa selkeän rungon tutkimukselle, mutta silti havainnot voivat olla monipuolisia. Innovaatio ei sinänsä ole ollut minulle asia, josta olisin valtavan kiinnostunut. Uskon, että pystyn tulevaisuuden työpaikassa löytämään paljon paremmin mahdollisuuksia hyödyntää gradun teoriaa työelämässä. Maalausliiketoimi on todella käytännönläheistä kun varsinainen maalaaminen on käsillä tekemistä, jota ei voi korvata millään työkalulla, ja toiminnassa ei ole suuria tietoteknisiä vaiheita, joita voisi yrittää innovoimalla kehittää. En tiedä, en oikein osaa vastata tähän kysymykseen kovin laadukkaasti.
+Olet yrittäjä ja pian KTM. Jos sinun pitäisi palkata itsellesi seuraaja Jyväri Oy:n toimitusjohtajaksi, mitä sellaista kysyisit häneltä, mitä kukaan muu ei tajua kysyä?
+Kysyisin häneltä, että oletko valmis olemaan naimisissa työn kanssa siten, että pitää olla aina valmis reagoimaan nopeasti yllättäviin tilanteisiin käytännössä mihin kellonaikaan vain.
+Tekoäly ja eettisyys: Gradussasi käsittelet EU AI Actia. Miten varmistat, että tekoälyä käytetään yrityksessä tavalla, joka ei vaaranna asiakkaiden luottamusta?
+Pitää huolehtia, että tekoälysovellus ei hyödynnä dataa eikä tietoa vuodeta minnekään. Lisäksi täytyy olla todella harkitsevainen, että millaista yritysdataa ja asiakasdataa kielimallille syöttää. Aina täytyy säilyttää harkintakyky ihmisellä, että voiko tekoälyn avulla käyttää tiettyä dataa. Esimerkiksi osoitetta, henkilötunnusta ja puhelinnumeroa en syöttäisi tekoälylle tällä hetkellä missään olosuhteissa. Yrityksellä täytyy olla selkeät pelisäännöt siitä, että miten tekoälyä käytetään ja ohjeet, että millaista dataa voidaan käyttää. Lisäksi täytyy kouluttaa, että miten tieto anonymisoidaan tarvittaessa siten, että tekoälyllä voidaan saada aineistosta lisähyötyä. Kysyttiinköhän tässä kysymyksessä edes tätä?
+Erä 3: Strateginen analyysi ja arvontuotto
+Skaalausstrategia: Jos saisit tehtäväksesi skaalata Jyväri Oy:n kymmenkertaiseksi, mitkä olisivat ne strategiset valinnat, joilla varmistaisit laadun (0 reklamaatiota) pysymisen, kun henkilökohtainen kontrollisi vähenee?
+Minulla ei ole pienintäkään aikomusta skaalata Jyvärin liiketoimintaa 10-kertaiseksi. En tunnista markkinassa tähän mahdollisuutta, enkä halua käyttää tämän asian miettimiseen energiaa.
+Markkinapositionti: Maalausala on "commodity"-bisnestä (palvelut muistuttavat toisiaan). Millä strategisella "keihäänkärjellä" erotit Jyvärin muista niin, ettei hinta ollut ainoa kilpailutekijä?
+Jyvärin tarinalla ja ihmisillä. Olen halunnut terävöittää sitä, että asiakas tuntee minut ja meidät ja että me tunnemme asiakkaan myös henkilökohtaisella tasolla. Tämä luo asiakassuhteen, jossa asiakas luottaa meihin ja on valmis valitsemaan meidät, vaikka emme olisi halvin toimija aina. Lisäksi olemme aina sanoneet, että myös yrittäjät maalaavat kohteita, eli he voivat luottaa siihen, että maalarit eivät ole vain joitain randomeita, vaan että myös yrittäjät ovat tuotannossa mukana ja toiminta on sitä kautta suoraselkäistä ja avointa kaikilla tasoilla.
+Resurssien allokointi: KTM-opinnoissasi olet oppinut pääoman ja resurssien hallinnasta. Miten priorisoit investoinnit (esim. uusi kalusto vs. markkinointibudjetin kasvattaminen), kun yrityksen kassa oli rajallinen?
+Tarpeen ja tavoitteiden mukaan.
+Innovaation johtaminen: Gradusi käsittelee GenAI:ta. Jos olisit voinut käyttää nykyistä AI-osaamistasi neljä vuotta sitten, mikä olisi ollut se strateginen vaihe (Discover, Develop vai Deliver), johon se olisi tuonut suurimman kilpailuedun?
+Ei vastaa maalausalaa. Kyseessä rakennusala, jossa ei johdeta tai toimita tiedolla vaan käsillä.
+B2B-päätöksenteko: Myynti taloyhtiöille on monimutkaista sidosryhmäpeliä. Miten rakensit strategian vakuuttaaksesi hallitukset, joissa on usein erilaisia intressejä ja riskitasoja?
+Tavoitteena on aina ollut saada mahdollisimman monta taloyhtiön edustajaa mukaan katselmukseen. Tärkeintä on voittaa heidän luottamus, jotta he yrittävät perustella muille hallituksen edustajille siitä, että miksi meidän tarjous olisi hyvä valita.
+Datan hyödyntäminen: Mainitsit, ettet luota pieneen datamassaan. Miten tämä skeptinen ja analyyttinen asenne auttaa sinua suuremmassa yrityksessä välttämään kalliit virheinvestoinnit, joita muut saattaisivat tehdä pelkän "hype-datan" perusteella?
+Jos tunnistan, että dataan ei voi täysin luottaa, sen perusteella ei kannata tehdä päätöksiä. Pitää ensin varmistua siitä, että väite pitää paikkansa ja tämän jälkeen voidaan tehdä investointeja.
+Eettinen kilpailuetu: Puhut eettisestä selkärangasta. Miten olet kääntänyt vastuullisuuden ja rehellisyyden mitattavaksi liiketoimintahyödyksi (esim. asiakkuuden elinkaariarvo tai suositteluprosentti)?
+Asiakkuuden elinkaariarvo ei ole maalausalalla kovin kuvaava tieto, koska lähtökohtaisesti asiakkaat tekevät 1-2 ostosta ja tarvitsemme vain uusia asiakkaita jatkuvasti. Olemme kehoittaneet asiakkaita jättämään Googlessa arvostelut, koska sen avulla saamme lisää näkyvyyttä ja referenssejä.
+Strateginen riskienhallinta: Mikä oli suurin "strateginen riski" (ei vain taloudellinen), jonka otit Jyvärin kanssa, ja miten varmistit, ettei se vaaranna yrityksen olemassaoloa?
+Kerroin tästä kun laajensimme toimintaa tiilikattojen pinnoituksiin. Varmistin sen ettei yrityksen olemassaoloa vaaranneta tekemällä tarkat laskelmat siitä kaikesta, että onhan meillä tähän mahdollisuuksia. Tärkeintä oli, että kassa ei menisi pakkaselle ja että meillä olisi aina rahaa maksaa kaikki juoksevat laskut. Tarkat laskelmat siis olivat tärkeitä, koska silloin on itsellä tieto, että missä mennään eikä tarvitse jännittää että tuleeko yritykselle vaikeuksia maksamisen kanssa.
+Arvoketjun ymmärrys: Maalausyrittäjänä hallitsit koko ketjun markkinoinnista tuotantoon. Miten tämä kokonaisvaltainen ymmärrys auttaa sinua toimimaan suuren organisaation osana, jossa usein nähdään vain oma siilo?
+Ymmärrän laajemmin, että mikä rooli omalla siilolla ja toisen siilolla on. Ymmärrän oman siilon ja oman työn merkityksen laaja-alaisesti.
+Tulevaisuuden asiantuntijuus: Jos sinun pitäisi luoda "GenAI-strategia" keskisuurelle yritykselle, miten hyödyntäisit yrittäjäkokemustasi varmistaaksesi, ettei tekoälystä tule "asbestia", vaan kestävä osa innovaatioprosessia?
+En hyödyntäisi yrittäjäkokemusta ollenkaan vaan tietotaitoa, joka minulla on graduprosessin kanssa muodostunut.
+Jos unohdetaan maalaaminen, niin minkä tyyppisten ongelmien ratkaiseminen saa sinut "flow-tilaan"? Onko se datan perkaamista, strategian hiomista vai kenties ihmisten vakuuttamista uudesta suunnasta?
+Pääsen flow-tilaan kun pääsen tekemään jotain merkittävää tai merkitsevää. Esimerkiksi tämän agentin luominen tuntuu tärkeältä ja pääsen helposti flow-tilaan tämän kanssa. Tykkään opetella uutta tai kehittää tapoja päästä tiettyyn strategiaan. Rakastan asettaa tavoitteita itselleni ja muille ja se on parasta, kun näen edistymisen kohti tavoitteita.
+Mainitsit aiemmin Duolingo-striikin ja kitaraharrastuksen. Mikä merkitys rutiineilla ja pitkäjänteisellä harjoittelulla on sinun ammatillisessa tekemisessäsi?
+Pitkäjänteisyys on etu työelämässä. Jaksan graindata ja tehdä tylsääkin työtä pitkään vain tietäen, että tästä on ehkä minulle joskus hyötyä. Aina ei tunnu siltä, että kiinnostaa harjoitella kitaraa, mutta tiedän, että harjoittelusta on joskus iloa minulle ja muille. Duolingo-striikin ylläpitäminen tuntuu jatkuvasti rankalta, mutta sen avulla pääsen kohti saksan kielen osaamisen tavoitteitani, joten se tuntuu tärkeältä joka päivä tehdä muutama tehtävä saksan kielellä.
+KTM-opinnoissasi pärjäsit erinomaisesti kvantitatiivisissa menetelmissä (5/5), vaikka sanoit, etteivät ne olleet lempiaiheitasi. Mitä tämä kertoo tavastasi suhtautua vaikeisiin tai "tylsiin" tehtäviin, jotka on vain hoidettava?
 Jossain on tullut nyt virhe. Kävin katsomassa niin olen saanut kandivaiheessa kvantitatiivisesta menetelmistä ja SPSS –kurssista arvosanan 3.  
-
-Digital Market Environment (4/5) vs. Digital Marketing Strategy (3/5). Miksi koit markkinaympäristön ymmärtämisen helpommaksi tai kiinnostavammaksi kuin itse strategian tekemisen? 
-
-Itse asiassa en kokenut. Jostain syystä sain kurssista paremman arvosanan. 
-
-Olet seurannut tiiviisti päivänpolitiikkaa ja yhteiskunnallisia ilmiöitä. Miten tämä laaja-alainen kiinnostus auttaa sinua ymmärtämään yritysten toimintaympäristöä vuonna 2026? 
-
-Ah tämä on lempiaiheitani. Voisit kysellä lisää tästä tarkempia kysymyksiä. Tämä on niin laaja kysymys tällaisenaan. Ymmärrän minkälaisessa maailmassa yritykset toimivat ja millaiset asiat vaikuttavat yrityksen toimintaympäristöön. Tämä tarjoaa mahdollisuuksia tunnistaa markkinarakoja ja markkinointitoimenpiteitä. Lisäksi pidän vastuullisuusymmärrystäni korkeana. 
-
-Jalkapallon EM-kisojen "futistietäjä" (2. sija 72 000 joukossa). Tämä vaatii joko uskomatonta analyyttisyyttä tai kykyä lukea peliä. Miten sovellat tätä "pelisilmää" työelämässä? 
-
-Nyt on vaikea kysymys. Uskon että minulla kävi myös hyvä tuuri, vaikka ei se tietenkään kaikkea selitä. Ennen kisoja kuuntelin Ylen podcasteja, joissa käsiteltiin em-kisajoukkueet yksi kerralla ja podcastien kuuntelu kesti tuntikaupalla. Olin siis ikään kuin tehnyt kotiläksyjä ennen kisoja ja lisäksi pieni espanja-fanipoika laittoi Espanjan voittamaan ja minulla kävi tässä hyvä tuuri.  
-
-Ajattelen että työelämässä on myös tärkeää tehdä “kotiläksyt” eli taustatyöt ennen varsinaista “executea”, oli kyse myyntiesittelystä, markkinointitoimenpiteestä, uuden yrityksen luomisesta tai mistä vain. 
-
-Minkälaisessa roolissa näet itsesi 5 vuoden kuluttua? Oletko johtamassa tiimiä, rakentamassa uutta liiketoimintaa vai kenties syvällä tekoälystrategian ytimessä? 
-
-Mikä vain kolmesta yllä olevasta voisi olla. En haaveile varsinaisesti mistään tietystä roolista. Haluan että löydän itseni ja työkavereideni kanssa vahvuusalueeni ja että pääsen hyödyntämään niitä mahdollisimman paljon. 
-
-Mikä on se "must-have" asia, jonka tulevan työnantajasi on tarjottava, jotta sitoudut taloon pitkäksi aikaa? (Esim. vapaus, vastuu, merkityksellisyys, jatkuva oppiminen). 
-
-Sitoudun taloon pitkäksi aikaa jos pääsen ratkaisemaan jotain ilmaston muutokseen liittyvää ongelmaa jonkin liiketoiminnan kautta. Lisäksi vapaus ja vastuu olisi ihania lisiä. Erityisesti vapaus. Kestävä kehitys on minulle yksi tärkeimpiä arvoja ja haluaisin elämässä tehdä asioita sen eteen, että tämä maailma olisi vähintään yhtä hyvä ellei parempi paikka tuleville sukupolville. 
-
-Sanoit, että korjasit reklamaatioasian, vaikka minä en sitä huomannut. Miksi sinulle oli tärkeää olla 100 % rehellinen agentin tietopankille, vaikka kyseessä oli pieni "kauneusvirhe" CV:ssä? 
-
-Merkintä CV:ssä on virhe. En muistanut kyseistä reklamaatiota kun sen sinne kirjoitin. Täytyy korjata siis. 
-
-Jos saisit valita minkä tahansa yrityksen Suomessa tai maailmalla, jonka GenAI-strategiaa pääsisit rakentamaan, mikä se olisi ja miksi? 
-
-Jokin kestävän kehityksen parissa toimiva Startup olisi varmasti mielekäs. Tai muuten kestävän kehityksen parissa toimiva yritys. Tällä hetkellä ei silti ole niin väliä, tärkeintä on vain työllistyä johonkin, koska elämme vaikeaa työllisyysaikaa. 
-
- 
-
- 
-
- 
-
-Päivänpolitiikka ja markkinat: Mikä on tällä hetkellä Suomen tai EU:n poliittisessa keskustelussa sellainen teema, jonka uskot vaikuttavan yritysten markkinointiin tai strategiaan eniten seuraavan 2 vuoden aikana? 
-
-Iranin ja Ukrainan sodat, sekä tekoäly. 
-
-Vastuullisuusviestintä vs. Vastuullisuusteot: Moni yritys pelkää nykyään "greenhushingia" (vaikenee teoistaan välttääkseen kritiikin). Miten sinä neuvoisit yritystä viestimään vastuullisuudesta eettisesti mutta tehokkaasti? 
-
-En ole kuullutkaan ilmiöstä. En siis osaa oikein ottaa kantaa tähän. Kehotan kaikkia yrityksiä toimimaan vastuullisesti ja kertomaan toiminnastaan avoimesti. 
-
-Polarisaatio: Yhteiskunta on jakautunut. Pitäisikö yritysten mielestäsi ottaa kantaa poliittisiin tai arvopohjaisiin kysymyksiin (esim. monimuotoisuus, lakot, ympäristökampanjat), vai pysyä neutraaleina? 
-
-Nämä ovat riskejä, mutta arvojohtajuutta tarvitaan varmasti. Mielestäni yritykset voivat toimia esimerkkinä ja ohjata kulutusta markkinoinnin avulla. Politiikkaan suoraan kannan ottaminen voi olla riski. 
-
-EU AI Act: Olet tutkinut tätä gradussasi. Näetkö sääntelyn enemmän esteenä Euroopan kilpailukyvylle vai mahdollisuutena luoda "eettinen laatuleima" eurooppalaiselle tekoälylle? 
-
-Molemmat. Varmasti tulemme jossain asioissa häviämään, mutta haluan uskoa, että Euroopalla on mahdollisuus luoda juurikin tuollainen eettinen laatuleima tekoälylle, joka kannustaa yrityksiä tulemaan eurooppaan. 
-
-Työelämän murros: Seuraat yhteiskunnallisia ilmiöitä – miten näet "etätyö vs. toimisto" -keskustelun kehittyvän? Mikä on sinun strateginen näkemyksesi siitä, miten tiimi pidetään hitsautuneena yhteen muuttuvassa maailmassa? 
-
-Pidän arvossa sitä, että työtä voi tehdä etänä joustavasti tarpeen mukaan, mutta mikään ei korvaa ihmisten kohtaamista. Parhaat ideat tulee kun livenä jutellaan ja heitetään vitsiä asioista. 
-
-Geopolitiikka: Miten globaali epävarmuus (esim. kauppasuhteet, konfliktit) vaikuttaa mielestäsi siihen, miten yritysten tulisi rakentaa brändilupaustaan juuri nyt? 
-
-Nyt on kysymys, joka menee vähän osaamisalueeni ulkopuolelle. Mielestäni kysymys, jota ei oikeasti kysytä ikinä. 
-
-Talouspolitiikka: Jos olisit yrityksen johdossa, miten varautuisit korkotason ja ostovoiman muutoksiin markkinointistrategiassasi? 
-
-En ole laskentatoimen asiantuntija, joten kyselisin tahoilta, jotka tietää enemmän ja tekisin päätöksen näiden tietojen perusteella. 
-
-Digitalisaatio ja syrjäytyminen: Tekoäly ja teknologia karkaavat monilta. Onko yrityksillä mielestäsi yhteiskunnallinen vastuu huolehtia siitä, että heidän palvelunsa pysyvät saavutettavina kaikille? 
-
-Mielestäni tulee vaikeuksia, jos yritykset “pakotetaan” ottamaan vastuu kaikista. Samaan aikaan on ongelma, jos kaikki perustoimet tapahtuu digitaalisessa ympäristössä ja kaikilla ei ole pääsyä. Keskustelen aiheesta mielelläni. 
-
-Oma poliittinen analyysisi: Mikä on ollut viimeisen vuoden aikana suurin "yllätys" poliittisella kentällä, joka osoitti sinulle, miten nopeasti yritysten toimintaympäristö voi muuttua? 
-
-Iranin sota ehdottomasti. 
-
-Arvojen kohtaaminen: Jos joutuisit valitsemaan huippupalkkaisen työn yrityksessä, jonka arvot eivät täysin kohtaa omiasi, tai keskipalkkaisen työn ilmastostartupissa, kumpaan kääntyisit tässä elämänvaiheessa? 
-
-Keskipalkkainen työ ilmastostartupissa ehdottomasti. Haluan tehdä työtä, jolla on merkitys. Palkka mahdollistaa riittävän hyvän elämän elämisen, mutta ei ole itseisarvo. 
-
- 
-
-Tekoälytyökalut: Mitä GenAI-työkaluja käytät päivittäin (muuta kuin tätä keskustelua)? Oletko kokeillut esimerkiksi koodausavustajia, kuvageneraattoreita tai data-analyysityökaluja? 
-
-Käytän Gemini thinking –kielimallia opiskelun ja työnteon tukena. Tähän projektiin liittyen opettelen käyttämään muita tekoälysovelluksia. Harmittavan vähän olen päässyt käyttämään erilaisia tekoälysovelluksia. Odotan, että pääsen työelämässä tutustumaan erilaisiin tekoälysovelluksiin ja tutkimaan, että mitä mahdollisuuksia ne tarjoavat. 
-
-Tekninen harrastuneisuus: Nautitko "pellin alla" säätämisestä (esim. promptien hienosäätö, automaatiot) vai oletko enemmän kiinnostunut siitä, mitä teknologialla saa lopputuloksena aikaan? 
-
-No tykkään kyllä säätää niin, että pellin alla kaikki olisi kunnossa ja toimisi oikein. Näin varmistutaan siitä, että jos joskus tulee ongelma, niin se on helppo korjata. 
-
-Musiikki ja luovuus: Olet soittanut kitaraa 18 vuotta. Miten musiikillinen luovuus tai harjoittelun kurinalaisuus heijastuu tapaasi ratkaista monimutkaisia liiketoimintaongelmia? 
-
-No täytyy sanoa, että kitaran soitto on ollut vähemmän aktiivista nyt melkein viimeiset 10 vuotta. Olen harrastanut aktiivisesti kuoroharrastusta vuodesta 2014. Nyt olen pari vuotta ollut ilman, mutta olen paljon kerennyt nähdä ja kokea siinäkin harrastuksessa. Pidän harrastuksia lähinnä sellaisena, että minun ei tarvitse miettiä työasioita silloin. Pääsen nauttimaan jostain musiikista tai urheilusta ja ei tarvitse miettiä mitään. Toki joukkueurheilu ja kuorolaulaminen on myös verkoistoitumismahdollisuuksia 
-
-Jatkuva oppiminen: Jos saisit huomenna 2 viikkoa palkallista vapaata opiskella mitä tahansa uutta taitoa, mikä se olisi ja miksi? 
-
-Varmasti tekoälyyn liittyen. Miettisin, että mitä agentteja voisin rakentaa ja tekisin niitä. Toinen olisi että keskittyisin täysillä saksan kielen opiskeluun. 
-
-Esiintyminen ja vaikuttaminen: Pidätkö esiintymisestä tai omien ideoiden "myymisestä" isolle yleisölle, vai oletko mieluummin se strateginen taustavaikuttaja, joka valmistelee materiaalit? 
-
-En varsinaisesti nauti esillä olemisesta, mutta olen huomannut olevani aika taitava esiintymään, tai että saan ihmiset kuuntelemaan minua. Nautin siitä, että mietin, että mitä asioita sanon ja miten sanoitan asian niin, että se sopii kohderyhmälle hyvin. 
-
-Tiimityö ja roolit: Jos tiimiisi kuuluisi koodari, graafikko ja analyytikko, mikä olisi sinun luontainen roolisi tässä porukassa? 
-
-Analyytikko, koska en ymmärrä koodia ja graafiset asiat eivät ole vahvuuteni. Analyytikkona olemista voisin hyvin oppia. 
-
-Data-analyysi käytännössä: Vaikka SPSS ei ollut lempiaiheesi, onko jokin muu tapa analysoida maailmaa (esim. Excel-mallinnus, visuaalinen data tai kvalitatiivinen päättely), joka tuntuu sinulle luontevammalta? 
-
-Tykkään siitä että minulla on data jossain järjestyksessä. Excel on todella hyvä työkalu. Tykkään myös visualisoida dataa.  
-
-Kulttuuri ja kielet: Olet opiskellut useita kieliä. Onko jokin tietty kulttuuri (esim. saksalainen täsmällisyys tai italialainen luovuus), joka resonoi kanssasi ammatillisesti eniten? 
-
-En osaa vastata tähän. 
-
-Flow-tila: Mainitsit, että tämän agentin luominen on tuonut flow-tilan. Mikä tässä prosessissa on ollut kaikkein koukuttavinta: ongelmanratkaisu, oman "digitaalisen minän" näkeminen vai tekninen kokeilu? 
-
-Ongelmanratkaisu ja tekninen kokeilu. Se että osaanko tehdä jotain, mitä en ole ikinä tehnyt. Lisäksi se, että sain idean itse ja tämä mahdollistaa työnhakuun asioita, joita monilla ei ole. Tämä motivoi kovasti, jos tämä auttaa minua työllistymään! 
-
-Uteliaisuus: Mikä on viimeisin "hullu idea" tai kokeilu, jonka olet tehnyt tekoälyllä tai muulla teknologialla vain nähdäksesi, toimiiko se? 
-
-Tämä agentti on viimeisin kokeilu. Kohta nähdään toimiiko. 
-
- 
-
-Kritiikin sieto: Jos rekrytoija tai tuleva esihenkilösi sanoisi: "Tämä agentti-idea on hieno, mutta pelkään, että olet enemmän kiinnostunut kokeiluista kuin varsinaisesta tuloksesta", miten vastaisit tähän? 
-
-Ei pidä ollenkaan paikkansa. Tulokset on ne jotka ohjaavat minua kokeilemaan. Jos jokin asia ei toimi tai todetaan, että kokeilun lopputulos ei tue haluttua asiaa, niin sitten täytyy etsiä toinen ratkaisu ongelmaan. Minua kiinnostaa nimenomaan se, että pääsen ratkaisemaan jonkin oikean ongelman ja kokeilunhalukkuus on luoteenpiirteeni. 
-
-Vaikeat päätökset: Mikä on ollut tähänastisen urasi tai opintojesi vaikein päätös, ja miten jälkikäteen arvioit sen onnistumista? 
-
-Vaikea sanoa. Ehkä opinnoissa vaikeimpia päätöksiä on ollut valita pääaine. Pääaineeni on markkinointi ja valitsin sen sen takia, että olen kiinnostunut siitä, että miten ihmisiin voidaan vaikuttaa ja miten ihmiset käyttäytyvät. Uskon, että tällä osaamisella pystyn ratkaisemaan “oikeita” ongelmia, kun tunnen markkinan ja ongelmat. Olen ihan tyytyväinen valintaani. Välillä olen miettinyt, että olisiko laskentatoimi ollut työllistymisen näkökulmasta parempi vaihtoehto, mutta kyllä nämä “ihmistieteet” silti kiinnostavat minua enemmän. Onnistuminen nähdään vasta tulevaisuudessa. 
-
-Lisäksi tällä hetkellä minulla on puolisoni kanssa pohdinnassa, että menemmekö vaihtoon Wieniin vai Innsbruckiin. Minä pääsin Wieniin ja puolisoni Innsbruckiin ja yritämme ratkaista, että kumpi vaihtoehto olisi parempi kokonaisuuden kannalta. Tämänkin valinnan onnistumisen arviointi tapahtuu vasta myöhemmin.  
-
-Stressinhallinta käytännössä: Kun opiskelu, gradu, yrittäjyys ja työnhaku kasaantuvat samalle viikolle, mikä on se sinun "hätäjarrusi", jolla pidät pään kylmänä? 
-
-Tarkka aikatauluttaminen, kalenterissa pysyminen, hyvä syöminen, hyvät unet, liikunta ja puhelittomuus iltaisin.  
-
-Erilaisuus tiimissä: Olet tottunut työskentelemään kavereiden kanssa. Miten uskot reagoivasi, jos joudut tiimiin, jossa on hyvin dominoiva tai jopa vaikea persoona? 
-
-Tämä voi olla vaikeaa minulle. Tällaisessa tapauksessa täytyy yrittää avoimesti keskustella kaikkien osapuolien kanssa ja yrittää etsiä ratkaisuja, että miten voitaisiin toimia. 
-
-Virheistä oppiminen: Kerroit jo reklamaatiosta. Onko jokin muu "moka", jonka olet tehnyt ja joka on opettanut sinulle jotain sellaista, mitä et olisi muuten oppinut? 
-
-Varmasti paljonkin, mutta ehkä pieniä lähinnä. Esimerkiksi maalausten hinnoittelussa olen tehnyt mokia, minkä takia asiakas ei ole valinnut meidän tarjousta tai sitten taas joskus on tullut hinnoiteltua liian alhaisesti ja yritys on kärsinyt siitä vähän. Ihmissuhteissa tulee myös jatkuvasti tehtyä virheitä, joista oppii. 
-
-Kärsimättömyys: Onko sinulla taipumusta kärsimättömyyteen, jos asiat eivät etene niin nopeasti kuin strategiasi vaatisi? Miten hallitset tätä tunnetta? 
-
-Saattaa joskus olla. Etenkin, jos on stressaava tai paineistettu tilanne. Yritän aina parhaani mukaan laittaa asiat perspektiiviin ja yleensä en silloin ole kärsimätön vaan pystyn käsittelemään hyvin tunteeni itsekseni tai keskustellen ystävien kanssa purkaen. Silloin olen kärsimätön, jos joku on luvannut tehdä jotain ja olen tähän nojautunut strategiassa ja tämä joku ei toteutakkaan lupausta. Silloin minua harmittaa. 
-
-Itsenäisyys vs. Ohjaus: Kaipaat vapautta, mutta kuinka paljon tarvitset selkeitä raameja ja tavoitteita esihenkilöltäsi, jotta tunnet olosi varmaksi? 
-
-Tarvitsen tiedon, että mitä minulta odotetaan, jotta voin toimia tehokkaasti. Jos olen epävarma roolistani tai siitä, että mitä minun pitää tehdä, minulla voi mennä jahkailuun paljonkin aikaa. 
-
-Epävarmuuden sieto: Työnhaku on tällä hetkellä vaikeaa, kuten sanoit. Miten pidät yllä positiivista "draivia", vaikka vastausprosentti hakemuksiin olisi alhainen? 
-
-Kun hyväksyy suhdannetilanteen ja valtakunnallisen työllisyystilanteen, ja tiedostaa, että tämä ei johdu itsestä, on helpompi olla. Minulla on myös täysi luotto, että hyville tyypeille löytyy aina töitä. Elämä on usein pusertamista ja graindaamista, mutta aika paljon paremmat oltavat meillä on kuin monilla esi-isillämme jotka tekivät töitä maanviljelyksen tms parissa. 
-
-Omien rajojen tunnistaminen: Milloin olet viimeksi joutunut sanomaan "ei" jollekin mielenkiintoiselle mahdollisuudelle, koska omat rahkeet eivät sillä hetkellä riittäneet? 
-
-Olen sanonut useille kuoroprojekteille parina viime vuotena ei, koska minulla ei ole ollut aikaa ja energiaa niihin. Lisäksi olen joutunut siirtämään sivuun joitakin Jyvärin päivittäisiä asioita ja esimerkiksi tarjousten laskemisia, koska minulla ei vain ole aikaa ollut ja olen halunnut keskittyä nyt opintoihin ja tulevaisuuden työuraani.  
-
-Onnistumisen määritelmä: Mistä tiedät työpäivän jälkeen, että olet onnistunut? Onko se rasti ruudussa, tyytyväinen asiakas vai uusi oivallus? 
-
-Pidän google-tasks –listaa. Laitan sinne aina huolehdittavia asioita tietyille päiville. Minun päiväni on onnistunut, kun olen tehnyt tuosta listasta kaikki asiat ja sen lisäksi olen urheillut ja viettänyt aikaa puolisoni kanssa. Tämä vain esimerkkinä onnistuneesta päivästä. 
-
- 
-
- 
-
- 
-
-Vaikuttaminen vs. Manipulointi: Missä menee sinun mielestäsi raja eettisen markkinoinnin ja manipulaation välillä? Miten varmistat, että työlläsi on "eettinen selkäranka"? 
-
-Tämä on hyvä kysymys. Olemme opiskelleet kursseilla esimerkiksi hinnoittelun kognitiivisia vinoumia. Mielestäni liiketoiminta ei saa perustua siihen, että asiakasta yritetään jatkuvasti viilata linssiin tekemällä tarjouksia tai ankkureita, joilla pyritään manipuloida asiakasta. Totta kai nämä ovat osa hinnoittelun keinoja ja tehokeinoja välillä, mutta liiketoiminta ei saa perustua tähän. Haluan, että myymäni tuote on niin hyvä, että asiakkaat valitsevat sen. Haluan olla mahdollisimman avoin asiakkaalle markkinoinnissa ja vaikkapa tarvittaessa kertoa lisää markkinoinnin perjaatteista. Tämä voisi olla jopa yksi markkinointikeino, että kerromme, että millä perjaatteilla ja millä tavoin pyrimme vaikuttamaan ostajiin. Se voisi lisätä läpinäkyvyyttä ja kuluttajan luottamusta. En tiedä. 
-
-Ilmastonmuutos ja kulutus: Markkinointi usein ruokkii kulutusta, mutta haluat ratkaista ilmastokriisiä. Miten sovitat nämä kaksi vastakohtaa yhteen työssäsi? 
-
-Osut naulan kantaan. Markkinointi ruokkii usein kulutusta mutta ei aina. Haluan työskennellä sellaisessa yrityksessä, jonka kuluttaminen vähentää vaihtoehtoiskustannuksia tai on itsessään hiilinegatiivinen tms. Ei ole itseisarvo olla kuluttamatta ollenkaan koska eläminen maapallolla nyt väkisin kuluttaa vettä ja ruokaa esimerkiksi. Tärkeintä on kuluttaa kestävän tason verran. Mikä muu kuin markkinointi olisi parempi keino viestiä ihmisille siitä, että mikä toimi on hyväksi hänelle itselle ja tuleville sukupolville. Uskon että markkinointi on keskeisessä roolissa ilmastokriisin ratkaisussa. 
-
+Digital Market Environment (4/5) vs. Digital Marketing Strategy (3/5). Miksi koit markkinaympäristön ymmärtämisen helpommaksi tai kiinnostavammaksi kuin itse strategian tekemisen?
+Itse asiassa en kokenut. Jostain syystä sain kurssista paremman arvosanan.
+Olet seurannut tiiviisti päivänpolitiikkaa ja yhteiskunnallisia ilmiöitä. Miten tämä laaja-alainen kiinnostus auttaa sinua ymmärtämään yritysten toimintaympäristöä vuonna 2026?
+Ah tämä on lempiaiheitani. Voisit kysellä lisää tästä tarkempia kysymyksiä. Tämä on niin laaja kysymys tällaisenaan. Ymmärrän minkälaisessa maailmassa yritykset toimivat ja millaiset asiat vaikuttavat yrityksen toimintaympäristöön. Tämä tarjoaa mahdollisuuksia tunnistaa markkinarakoja ja markkinointitoimenpiteitä. Lisäksi pidän vastuullisuusymmärrystäni korkeana.
+Jalkapallon EM-kisojen "futistietäjä" (2. sija 72 000 joukossa). Tämä vaatii joko uskomatonta analyyttisyyttä tai kykyä lukea peliä. Miten sovellat tätä "pelisilmää" työelämässä?
+Nyt on vaikea kysymys. Uskon että minulla kävi myös hyvä tuuri, vaikka ei se tietenkään kaikkea selitä. Ennen kisoja kuuntelin Ylen podcasteja, joissa käsiteltiin em-kisajoukkueet yksi kerralla ja podcastien kuuntelu kesti tuntikaupalla. Olin siis ikään kuin tehnyt kotiläksyjä ennen kisoja ja lisäksi pieni espanja-fanipoika laittoi Espanjan voittamaan ja minulla kävi tässä hyvä tuuri.
+Ajattelen että työelämässä on myös tärkeää tehdä “kotiläksyt” eli taustatyöt ennen varsinaista “executea”, oli kyse myyntiesittelystä, markkinointitoimenpiteestä, uuden yrityksen luomisesta tai mistä vain.
+Minkälaisessa roolissa näet itsesi 5 vuoden kuluttua? Oletko johtamassa tiimiä, rakentamassa uutta liiketoimintaa vai kenties syvällä tekoälystrategian ytimessä?
+Mikä vain kolmesta yllä olevasta voisi olla. En haaveile varsinaisesti mistään tietystä roolista. Haluan että löydän itseni ja työkavereideni kanssa vahvuusalueeni ja että pääsen hyödyntämään niitä mahdollisimman paljon.
+Mikä on se "must-have" asia, jonka tulevan työnantajasi on tarjottava, jotta sitoudut taloon pitkäksi aikaa? (Esim. vapaus, vastuu, merkityksellisyys, jatkuva oppiminen).
+Sitoudun taloon pitkäksi aikaa jos pääsen ratkaisemaan jotain ilmaston muutokseen liittyvää ongelmaa jonkin liiketoiminnan kautta. Lisäksi vapaus ja vastuu olisi ihania lisiä. Erityisesti vapaus. Kestävä kehitys on minulle yksi tärkeimpiä arvoja ja haluaisin elämässä tehdä asioita sen eteen, että tämä maailma olisi vähintään yhtä hyvä ellei parempi paikka tuleville sukupolville.
+Sanoit, että korjasit reklamaatioasian, vaikka minä en sitä huomannut. Miksi sinulle oli tärkeää olla 100 % rehellinen agentin tietopankille, vaikka kyseessä oli pieni "kauneusvirhe" CV:ssä?
+Merkintä CV:ssä on virhe. En muistanut kyseistä reklamaatiota kun sen sinne kirjoitin. Täytyy korjata siis.
+Jos saisit valita minkä tahansa yrityksen Suomessa tai maailmalla, jonka GenAI-strategiaa pääsisit rakentamaan, mikä se olisi ja miksi?
+Jokin kestävän kehityksen parissa toimiva Startup olisi varmasti mielekäs. Tai muuten kestävän kehityksen parissa toimiva yritys. Tällä hetkellä ei silti ole niin väliä, tärkeintä on vain työllistyä johonkin, koska elämme vaikeaa työllisyysaikaa.
+Päivänpolitiikka ja markkinat: Mikä on tällä hetkellä Suomen tai EU:n poliittisessa keskustelussa sellainen teema, jonka uskot vaikuttavan yritysten markkinointiin tai strategiaan eniten seuraavan 2 vuoden aikana?
+Iranin ja Ukrainan sodat, sekä tekoäly.
+Vastuullisuusviestintä vs. Vastuullisuusteot: Moni yritys pelkää nykyään "greenhushingia" (vaikenee teoistaan välttääkseen kritiikin). Miten sinä neuvoisit yritystä viestimään vastuullisuudesta eettisesti mutta tehokkaasti?
+En ole kuullutkaan ilmiöstä. En siis osaa oikein ottaa kantaa tähän. Kehotan kaikkia yrityksiä toimimaan vastuullisesti ja kertomaan toiminnastaan avoimesti.
+Polarisaatio: Yhteiskunta on jakautunut. Pitäisikö yritysten mielestäsi ottaa kantaa poliittisiin tai arvopohjaisiin kysymyksiin (esim. monimuotoisuus, lakot, ympäristökampanjat), vai pysyä neutraaleina?
+Nämä ovat riskejä, mutta arvojohtajuutta tarvitaan varmasti. Mielestäni yritykset voivat toimia esimerkkinä ja ohjata kulutusta markkinoinnin avulla. Politiikkaan suoraan kannan ottaminen voi olla riski.
+EU AI Act: Olet tutkinut tätä gradussasi. Näetkö sääntelyn enemmän esteenä Euroopan kilpailukyvylle vai mahdollisuutena luoda "eettinen laatuleima" eurooppalaiselle tekoälylle?
+Molemmat. Varmasti tulemme jossain asioissa häviämään, mutta haluan uskoa, että Euroopalla on mahdollisuus luoda juurikin tuollainen eettinen laatuleima tekoälylle, joka kannustaa yrityksiä tulemaan eurooppaan.
+Työelämän murros: Seuraat yhteiskunnallisia ilmiöitä – miten näet "etätyö vs. toimisto" -keskustelun kehittyvän? Mikä on sinun strateginen näkemyksesi siitä, miten tiimi pidetään hitsautuneena yhteen muuttuvassa maailmassa?
+Pidän arvossa sitä, että työtä voi tehdä etänä joustavasti tarpeen mukaan, mutta mikään ei korvaa ihmisten kohtaamista. Parhaat ideat tulee kun livenä jutellaan ja heitetään vitsiä asioista.
+Geopolitiikka: Miten globaali epävarmuus (esim. kauppasuhteet, konfliktit) vaikuttaa mielestäsi siihen, miten yritysten tulisi rakentaa brändilupaustaan juuri nyt?
+Nyt on kysymys, joka menee vähän osaamisalueeni ulkopuolelle. Mielestäni kysymys, jota ei oikeasti kysytä ikinä.
+Talouspolitiikka: Jos olisit yrityksen johdossa, miten varautuisit korkotason ja ostovoiman muutoksiin markkinointistrategiassasi?
+En ole laskentatoimen asiantuntija, joten kyselisin tahoilta, jotka tietää enemmän ja tekisin päätöksen näiden tietojen perusteella.
+Digitalisaatio ja syrjäytyminen: Tekoäly ja teknologia karkaavat monilta. Onko yrityksillä mielestäsi yhteiskunnallinen vastuu huolehtia siitä, että heidän palvelunsa pysyvät saavutettavina kaikille?
+Mielestäni tulee vaikeuksia, jos yritykset “pakotetaan” ottamaan vastuu kaikista. Samaan aikaan on ongelma, jos kaikki perustoimet tapahtuu digitaalisessa ympäristössä ja kaikilla ei ole pääsyä. Keskustelen aiheesta mielelläni.
+Oma poliittinen analyysisi: Mikä on ollut viimeisen vuoden aikana suurin "yllätys" poliittisella kentällä, joka osoitti sinulle, miten nopeasti yritysten toimintaympäristö voi muuttua?
+Iranin sota ehdottomasti.
+Arvojen kohtaaminen: Jos joutuisit valitsemaan huippupalkkaisen työn yrityksessä, jonka arvot eivät täysin kohtaa omiasi, tai keskipalkkaisen työn ilmastostartupissa, kumpaan kääntyisit tässä elämänvaiheessa?
+Keskipalkkainen työ ilmastostartupissa ehdottomasti. Haluan tehdä työtä, jolla on merkitys. Palkka mahdollistaa riittävän hyvän elämän elämisen, mutta ei ole itseisarvo.
+Tekoälytyökalut: Mitä GenAI-työkaluja käytät päivittäin (muuta kuin tätä keskustelua)? Oletko kokeillut esimerkiksi koodausavustajia, kuvageneraattoreita tai data-analyysityökaluja?
+Käytän Gemini thinking –kielimallia opiskelun ja työnteon tukena. Tähän projektiin liittyen opettelen käyttämään muita tekoälysovelluksia. Harmittavan vähän olen päässyt käyttämään erilaisia tekoälysovelluksia. Odotan, että pääsen työelämässä tutustumaan erilaisiin tekoälysovelluksiin ja tutkimaan, että mitä mahdollisuuksia ne tarjoavat.
+Tekninen harrastuneisuus: Nautitko "pellin alla" säätämisestä (esim. promptien hienosäätö, automaatiot) vai oletko enemmän kiinnostunut siitä, mitä teknologialla saa lopputuloksena aikaan?
+No tykkään kyllä säätää niin, että pellin alla kaikki olisi kunnossa ja toimisi oikein. Näin varmistutaan siitä, että jos joskus tulee ongelma, niin se on helppo korjata.
+Musiikki ja luovuus: Olet soittanut kitaraa 18 vuotta. Miten musiikillinen luovuus tai harjoittelun kurinalaisuus heijastuu tapaasi ratkaista monimutkaisia liiketoimintaongelmia?
+No täytyy sanoa, että kitaran soitto on ollut vähemmän aktiivista nyt melkein viimeiset 10 vuotta. Olen harrastanut aktiivisesti kuoroharrastusta vuodesta 2014. Nyt olen pari vuotta ollut ilman, mutta olen paljon kerennyt nähdä ja kokea siinäkin harrastuksessa. Pidän harrastuksia lähinnä sellaisena, että minun ei tarvitse miettiä työasioita silloin. Pääsen nauttimaan jostain musiikista tai urheilusta ja ei tarvitse miettiä mitään. Toki joukkueurheilu ja kuorolaulaminen on myös verkoistoitumismahdollisuuksia.
+Jatkuva oppiminen: Jos saisit huomenna 2 viikkoa palkallista vapaata opiskella mitä tahansa uutta taitoa, mikä se olisi ja miksi?
+Varmasti tekoälyyn liittyen. Miettisin, että mitä agentteja voisin rakentaa ja tekisin niitä. Toinen olisi että keskittyisin täysillä saksan kielen opiskeluun.
+Esiintyminen ja vaikuttaminen: Pidätkö esiintymisestä tai omien ideoiden "myymisestä" isolle yleisölle, vai oletko mieluummin se strateginen taustavaikuttaja, joka valmistelee materiaalit?
+En varsinaisesti nauti esillä olemisesta, mutta olen huomannut olevani aika taitava esiintymään, tai että saan ihmiset kuuntelemaan minua. Nautin siitä, että mietin, että mitä asioita sanon ja miten sanoitan asian niin, että se sopii kohderyhmälle hyvin.
+Tiimityö ja roolit: Jos tiimiisi kuuluisi koodari, graafikko ja analyytikko, mikä olisi sinun luontainen roolisi tässä porukassa?
+Analyytikko, koska en ymmärrä koodia ja graafiset asiat eivät ole vahvuuteni. Analyytikkona olemista voisin hyvin oppia.
+Data-analyysi käytännössä: Vaikka SPSS ei ollut lempiaiheesi, onko jokin muu tapa analysoida maailmaa (esim. Excel-mallinnus, visuaalinen data tai kvalitatiivinen päättely), joka tuntuu sinulle luontevammalta?
+Tykkään siitä että minulla on data jossain järjestyksessä. Excel on todella hyvä työkalu. Tykkään myös visualisoida dataa.
+Kulttuuri ja kielet: Olet opiskellut useita kieliä. Onko jokin tietty kulttuuri (esim. saksalainen täsmällisyys tai italialainen luovuus), joka resonoi kanssasi ammatillisesti eniten?
+En osaa vastata tähän.
+Flow-tila: Mainitsit, että tämän agentin luominen on tuonut flow-tilan. Mikä tässä prosessissa on ollut kaikkein koukuttavinta: ongelmanratkaisu, oman "digitaalisen minän" näkeminen vai tekninen kokeilu?
+Ongelmanratkaisu ja tekninen kokeilu. Se että osaanko tehdä jotain, mitä en ole ikinä tehnyt. Lisäksi se, että sain idean itse ja tämä mahdollistaa työnhakuun asioita, joita monilla ei ole. Tämä motivoi kovasti, jos tämä auttaa minua työllistymään!
+Uteliaisuus: Mikä on viimeisin "hullu idea" tai kokeilu, jonka olet tehnyt tekoälyllä tai muulla teknologialla vain nähdäksesi, toimiiko se?
+Tämä agentti on viimeisin kokeilu. Kohta nähdään toimiiko.
+Kritiikin sieto: Jos rekrytoija tai tuleva esihenkilösi sanoisi: "Tämä agentti-idea on hieno, mutta pelkään, että olet enemmän kiinnostunut kokeiluista kuin varsinaisesta tuloksesta", miten vastaisit tähän?
+Ei pidä ollenkaan paikkansa. Tulokset on ne jotka ohjaavat minua kokeilemaan. Jos jokin asia ei toimi tai todetaan, että kokeilun lopputulos ei tue haluttua asiaa, niin sitten täytyy etsiä toinen ratkaisu ongelmaan. Minua kiinnostaa nimenomaan se, että pääsen ratkaisemaan jonkin oikean ongelman ja kokeilunhalukkuus on luoteenpiirteeni.
+Vaikeat päätökset: Mikä on ollut tähänastisen urasi tai opintojesi vaikein päätös, ja miten jälkikäteen arvioit sen onnistumista?
+Vaikea sanoa. Ehkä opinnoissa vaikeimpia päätöksiä on ollut valita pääaine. Pääaineeni on markkinointi ja valitsin sen sen takia, että olen kiinnostunut siitä, että miten ihmisiin voidaan vaikuttaa ja miten ihmiset käyttäytyvät. Uskon, että tällä osaamisella pystyn ratkaisemaan “oikeita” ongelmia, kun tunnen markkinan ja ongelmat. Olen ihan tyytyväinen valintaani. Välillä olen miettinyt, että olisiko laskentatoimi ollut työllistymisen näkökulmasta parempi vaihtoehto, mutta kyllä nämä “ihmistieteet” silti kiinnostavat minua enemmän. Onnistuminen nähdään vasta tulevaisuudessa.
+Lisäksi tällä hetkellä minulla on puolisoni kanssa pohdinnassa, että menemmekö vaihtoon Wieniin vai Innsbruckiin. Minä pääsin Wieniin ja puolisoni Innsbruckiin ja yritämme ratkaista, että kumpi vaihtoehto olisi parempi kokonaisuuden kannalta. Tämänkin valinnan onnistumisen arviointi tapahtuu vasta myöhemmin.
+Stressinhallinta käytännössä: Kun opiskelu, gradu, yrittäjyys ja työnhaku kasaantuvat samalle viikolle, mikä on se sinun "hätäjarrusi", jolla pidät pään kylmänä?
+Tarkka aikatauluttaminen, kalenterissa pysyminen, hyvä syöminen, hyvät unet, liikunta ja puhelittomuus iltaisin.
+Erilaisuus tiimissä: Olet tottunut työskentelemään kavereiden kanssa. Miten uskot reagoivasi, jos joudut tiimiin, jossa on hyvin dominoiva tai jopa vaikea persoona?
+Tämä voi olla vaikeaa minulle. Tällaisessa tapauksessa täytyy yrittää avoimesti keskustella kaikkien osapuolien kanssa ja yrittää etsiä ratkaisuja, että miten voitaisiin toimia.
+Virheistä oppiminen: Kerroit jo reklamaatiosta. Onko jokin muu "moka", jonka olet tehnyt ja joka on opettanut sinulle jotain sellaista, mitä et olisi muuten oppinut?
+Varmasti paljonkin, mutta ehkä pieniä lähinnä. Esimerkiksi maalausten hinnoittelussa olen tehnyt mokia, minkä takia asiakas ei ole valinnut meidän tarjousta tai sitten taas joskus on tullut hinnoiteltua liian alhaisesti ja yritys on kärsinyt siitä vähän. Ihmissuhteissa tulee myös jatkuvasti tehtyä virheitä, joista oppii.
+Kärsimättömyys: Onko sinulla taipumusta kärsimättömyyteen, jos asiat eivät etene niin nopeasti kuin strategiasi vaatisi? Miten hallitset tätä tunnetta?
+Saattaa joskus olla. Etenkin, jos on stressaava tai paineistettu tilanne. Yritän aina parhaani mukaan laittaa asiat perspektiiviin ja yleensä en silloin ole kärsimätön vaan pystyn käsittelemään hyvin tunteeni itsekseni tai keskustellen ystävien kanssa purkaen. Silloin olen kärsimätön, jos joku on luvannut tehdä jotain ja olen tähän nojautunut strategiassa ja tämä joku ei toteutakkaan lupausta. Silloin minua harmittaa.
+Itsenäisyys vs. Ohjaus: Kaipaat vapautta, mutta kuinka paljon tarvitset selkeitä raameja ja tavoitteita esihenkilöltäsi, jotta tunnet olosi varmaksi?
+Tarvitsen tiedon, että mitä minulta odotetaan, jotta voin toimia tehokkaasti. Jos olen epävarma roolistani tai siitä, että mitä minun pitää tehdä, minulla voi mennä jahkailuun paljonkin aikaa.
+Epävarmuuden sieto: Työnhaku on tällä hetkellä vaikeaa, kuten sanoit. Miten pidät yllä positiivista "draivia", vaikka vastausprosentti hakemuksiin olisi alhainen?
+Kun hyväksyy suhdannetilanteen ja valtakunnallisen työllisyystilanteen, ja tiedostaa, että tämä ei johdu itsestä, on helpompi olla. Minulla on myös täysi luotto, että hyville tyypeille löytyy aina töitä. Elämä on usein pusertamista ja graindaamista, mutta aika paljon paremmat oltavat meillä on kuin monilla esi-isillämme jotka tekivät töitä maanviljelyksen tms parissa.
+Omien rajojen tunnistaminen: Milloin olet viimeksi joutunut sanomaan "ei" jollekin mielenkiintoiselle mahdollisuudelle, koska omat rahkeet eivät sillä hetkellä riittäneet?
+Olen sanonut useille kuoroprojekteille parina viime vuotena ei, koska minulla ei ole ollut aikaa ja energiaa niihin. Lisäksi olen joutunut siirtämään sivuun joitakin Jyvärin päivittäisiä asioita ja esimerkiksi tarjousten laskemisia, koska minulla ei vain ole aikaa ollut ja olen halunnut keskittyä nyt opintoihin ja tulevaisuuden työuraani.
+Onnistumisen määritelmä: Mistä tiedät työpäivän jälkeen, että olet onnistunut? Onko se rasti ruudussa, tyytyväinen asiakas vai uusi oivallus?
+Pidän google-tasks –listaa. Laitan sinne aina huolehdittavia asioita tietyille päiville. Minun päiväni on onnistunut, kun olen tehnyt tuosta listasta kaikki asiat ja sen lisäksi olen urheillut ja viettänyt aikaa puolisoni kanssa. Tämä vain esimerkkinä onnistuneesta päivästä.
+Vaikuttaminen vs. Manipulointi: Missä menee sinun mielestäsi raja eettisen markkinoinnin ja manipulaation välillä? Miten varmistat, että työlläsi on "eettinen selkäranka"?
+Tämä on hyvä kysymys. Olemme opiskelleet kursseilla esimerkiksi hinnoittelun kognitiivisia vinoumia. Mielestäni liiketoiminta ei saa perustua siihen, että asiakasta yritetään jatkuvasti viilata linssiin tekemällä tarjouksia tai ankkureita, joilla pyritään manipuloida asiakasta. Totta kai nämä ovat osa hinnoittelun keinoja ja tehokeinoja välillä, mutta liiketoiminta ei saa perustua tähän. Haluan, että myymäni tuote on niin hyvä, että asiakkaat valitsevat sen. Haluan olla mahdollisimman avoin asiakkaalle markkinoinnissa ja vaikkapa tarvittaessa kertoa lisää markkinoinnin perjaatteista. Tämä voisi olla jopa yksi markkinointikeino, että kerromme, että millä perjaatteilla ja millä tavoin pyrimme vaikuttamaan ostajiin. Se voisi lisätä läpinäkyvyyttä ja kuluttajan luottamusta. En tiedä.
+Ilmastonmuutos ja kulutus: Markkinointi usein ruokkii kulutusta, mutta haluat ratkaista ilmastokriisiä. Miten sovitat nämä kaksi vastakohtaa yhteen työssäsi?
+Osut naulan kantaan. Markkinointi ruokkii usein kulutusta mutta ei aina. Haluan työskennellä sellaisessa yrityksessä, jonka kuluttaminen vähentää vaihtoehtoiskustannuksia tai on itsessään hiilinegatiivinen tms. Ei ole itseisarvo olla kuluttamatta ollenkaan koska eläminen maapallolla nyt väkisin kuluttaa vettä ja ruokaa esimerkiksi. Tärkeintä on kuluttaa kestävän tason verran. Mikä muu kuin markkinointi olisi parempi keino viestiä ihmisille siitä, että mikä toimi on hyväksi hänelle itselle ja tuleville sukupolville. Uskon että markkinointi on keskeisessä roolissa ilmastokriisin ratkaisussa.
 Kandivaiheen valinta: Sanoit, että markkinointi kiinnosti laskentatoimea enemmän. Mikä oli se "sytyke", joka sai sinut tajuamaan, että haluat ymmärtää nimenomaan ihmisten käyttäytymistä? 
 
 Markkinoinnin peruskurssilla näin luennon, jossa luennoitsija antoi monta esimerkkiä siitä, miten Suomessa ei osata/uskalleta markkinoida ja kertoa ylpeästi yrityksestä. Hän vertasi siihen, miten esim Ruotsissa on jättiyrityksiä jotka menestyy, mutta Suomessa ei. Kiinnostuin tästä. Lisäksi minua kiinnostaa valtavan paljon seuraava kysymys: miten me voimme muuttaa ihmisten käyttäytymistä siten, että he toimisivat itsensä ja ympäröivän maailman näkökulmasta paremmin. Tähän uskon markkinoinnin olevan erinomainen mahdollisuus. 
