@@ -335,9 +335,6 @@ if "messages" not in st.session_state:
     st.session_state.messages = [
         {"role": "assistant", "content": "Tervehdys! 👋 Olen Rafaelin digitaalinen kaksonen ja interaktiivinen osaamisprofiili. Kysy rohkeasti mitä tahansa! Pyrin vastaamaan kaikkeen kuin Rafael itse. Jos vastaukset ovat erilaisia kuin Rafaelilta, voit syyttää hänen koodaustaitojaan."}
     ]
-    st.session_state.messages = [
-        {"role": "assistant", "content": "Tervehdys! 👋 Olen Rafaelin digitaalinen kaksonen ja interaktiivinen osaamisprofiili. Kysy rohkeasti mitä tahansa! Pyrin vastaamaan kaikkeen kuin Rafael itse. Jos vastaukset ovat erilaisia kuin Rafaelilta, voit syyttää hänen koodaustaitojaan."}
-    ]
 
 for message in st.session_state.messages:
     avatar = "🤖" if message["role"] == "assistant" else "👤"
